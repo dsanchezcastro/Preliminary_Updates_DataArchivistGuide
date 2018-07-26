@@ -190,7 +190,7 @@ are recommended:
    are possible:
 
 +-------------------------------------------+-------------+-------------+
-|_**Option 1:**_____________________________|**Option 2:**|**Option 3:**|
+| **Option 1:**                             |**Option 2:**|**Option 3:**|
 | Use a combination of four variables       | Generate    |  Generate   |
 |                                           |     a       |    a        |
 |                                           |concatenaeted| sequential  |
