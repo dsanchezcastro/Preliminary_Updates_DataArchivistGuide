@@ -213,7 +213,10 @@ are recommended:
 | Etc       | Etc       | Etc       | Etc   | Etc         | Etc         |
 +-----------+-----------+-----------+-------+-------------+-------------+
 
-. tbl ({l}"Left", {c}"Centered", {r}"Right" \ c(os),  c(machine_type), c(username))
+| Command | Description |
+| --- | --- |
+| `git status` | List all *new or modified* files |
+| `git diff` | Show file differences that **haven't been** staged |
 
    Options 2 and 3 are recommended. Note that if option 3 is chosen, it
    is crucial to preserve (but not distribute) a file that would provide
