@@ -12,11 +12,12 @@ Quick Reference Guide for Data Archivists
 **June 2007**
 
 
-Olivier Dupriez (World Bank)
+    Olivier Dupriez (World Bank)
+    
+    and
 
-and
+    Geoffrey Greenwell (PARIS21)
 
-Geoffrey Greenwell (PARIS21)
 
 Content
 
