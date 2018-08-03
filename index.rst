@@ -73,12 +73,13 @@ for completing survey metadata.
 Many thanks also to all our colleagues and friends from statistical
 agencies in Africa who provided feedback on the Toolkit.
 
-+-----------------------------------------------------------------------------------+
-| This document (or an updated version of it) is available at www.surveynetwork.org |
-|                                                                                   |
-| Comments and suggestions are always appreciated and can be sent to                |
-| odupriez@worldbank.org or toolkit@surveynetwork.org                               |
-+-----------------------------------------------------------------------------------+
++--------------------------------------------------------------------+
+| This document (or an updated version of it) is available at        |
+| www.surveynetwork.org.                                             |
+|                                                                    |
+| Comments and suggestions are always appreciated and can be sent to |
+| odupriez@worldbank.org or toolkit@surveynetwork.org                |
++--------------------------------------------------------------------+
 
 Introduction
 ============
