@@ -126,7 +126,9 @@ Documentation of a dataset will be considerably facilitated if you
 organize your data and other files properly. We recommend that, before
 anything else, you create the necessary directories as follows:
 
--  |image1|\ Create a directory for the survey. We suggest you name it
+|image1|
+
+-  Create a directory for the survey. We suggest you name it
    using the survey’s abbreviated name and year, e.g. “HIES2007” for
    “Household Income and Expenditure Survey 2007”
 
