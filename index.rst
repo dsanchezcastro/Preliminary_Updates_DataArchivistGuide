@@ -4,9 +4,11 @@
 
 **IHSN**
 
+
 Quick Reference Guide for Data Archivists
 =========================================
-
+|
+|
 
 **DRAFT - Version 2007.03**
 
@@ -16,10 +18,10 @@ June 2007
    and
 
    Geoffrey Greenwell (PARIS21)
-
-
+   
 
 Content
+======= 
 
 `Introduction 1 <#introduction>`__
 
