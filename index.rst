@@ -4,27 +4,21 @@
 
 **IHSN**
 
--------------------------------------------
+Quick Reference Guide
 
-Quick Reference Guide for Data Archivists
-=========================================
-|
-|
-|
+for
 
-***********************
+Data Archivists
+
 DRAFT - Version 2007.03
-***********************
-*********
-June 2007
-*********
-|
-|
-|
-|       Olivier Dupriez (World Bank)
-|       and
-|       Geoffrey Greenwell (PARIS21)
 
+June 2007
+
+Olivier Dupriez (World Bank)
+
+and
+
+Geoffrey Greenwell (PARIS21)
 
 Content
 
