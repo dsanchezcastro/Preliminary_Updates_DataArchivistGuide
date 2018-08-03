@@ -62,6 +62,8 @@ Content
 `10. Independent quality review 32 <#independent-quality-review>`__
 
 Acknowledgments
+===============
+
 
 Francois Fonteneau (PARIS21), Chris Rockmore (World Bank) and Jan Smit
 (ESCAP) provided valuable input.
