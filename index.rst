@@ -34,7 +34,7 @@ Content
 
 `5. Completing metadata 9 <#completing-metadata>`__
 
-   `5.1. Good practices for completing the Document Description
+`5.1. Good practices for completing the Document Description
 10 <#good-practices-for-completing-the-document-description>`__
 
 `5.2. Good practices for completing the Study Description
