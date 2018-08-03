@@ -126,63 +126,20 @@ Documentation of a dataset will be considerably facilitated if you
 organize your data and other files properly. We recommend that, before
 anything else, you create the necessary directories as follows:
 
-|image1|
-
--  Create a directory for the survey. We suggest you name it
-   using the survey’s abbreviated name and year, e.g. “HIES2007” for
-   “Household Income and Expenditure Survey 2007”
-
--  Create various sub-directories for the data files (and for the
-   various versions of the dataset if relevant)
-
--  Create sub-directories for the documentation and for the program
-   files if relevant (see example).
-   
-
-+------------+---------------+-------------------------------------------------+
-| |image1|                | - Create a directory for the survey.            |
-|                         |   We suggest you name it using the survey’s     |
-|                         |   “HIES2007” for “Household Income and 	    |
-|                         |   Expenditure Survey 2007”.                     |
-+                         +-------------------------------------------------+
-|                         |  - Create various sub-directories for the.      |
-|                         |   data files (and for the various versions      |
-|                         |   of the dataset if relevant)                   |
-|                         +-------------------------------------------------+
-|                         |  - Create sub-directories for the               |
-|                         |   documentation and for the program files       |
-|                         |   if relevant (see example).                    |
-+------------+------------+-------------------------------------------------+
-
-+------------+------------+------------------------------------------------+
-|         ..|image1|        |Create a directory for the survey.              |
-|                         |We suggest you name it using the survey’s       |
-|                         |“HIES2007” for “Household Income and            |
-|                         |Expenditure Survey 2007”.                       |
-+                         +------------------------------------------------+
-|                         |                                                |
-|                         |                                                |
-|                         |                                                |
-|                         +------------------------------------------------+
-|                         |                                                |
-|                         |                                                |
-|                         |                                                |
-+------------+------------+------------------------------------------------+
-
-+------------+--------------+------------------------------------------------+
-|           |image1|        |Create a directory for the survey.              |
-|                           |We suggest you name it using the survey’s       |
-|                           |“HIES2007” for “Household Income and            |
-|                           |Expenditure Survey 2007”.                       |
-+                           +------------------------------------------------+
-|                           |Create various sub-directories for the.         |
-|                           |data files (and for the various versions        |
-|                           |of the dataset if relevant)                     |
-|                           +------------------------------------------------+
-|                           |Create sub-directories for the                  |
-|                           |documentation and for the program files         |
-|                           |if relevant (see example).                      |
-+------------+--------------+------------------------------------------------+
++------------+--------------+------------------------------------------+
+|           |image1|        |Create a directory for the survey.        |
+|                           |We suggest you name it using the survey’s |
+|                           |“HIES2007” for “Household Income and      |
+|                           |Expenditure Survey 2007”                  |
++                           +------------------------------------------+
+|                           |Create various sub-directories for the.   |
+|                           |data files (and for the various versions  |
+|                           |of the dataset if relevant)               |
+|                           +------------------------------------------+
+|                           |Create sub-directories for the            |
+|                           |documentation and for the program files   |
+|                           |if relevant (see example)                 |
++------------+--------------+------------------------------------------+
 
 Gathering and preparing the data set
 ====================================
