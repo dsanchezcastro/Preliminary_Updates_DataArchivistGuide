@@ -7,8 +7,6 @@
 
 Quick Reference Guide for Data Archivists
 =========================================
-|
-|
 
 **DRAFT - Version 2007.03**
 
