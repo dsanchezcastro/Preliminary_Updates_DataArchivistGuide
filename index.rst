@@ -7,9 +7,10 @@
 Quick Reference Guide for Data Archivists
 =========================================
 
-DRAFT - Version 2007.03
 
-June 2007
+**DRAFT - Version 2007.03**
+**June 2007**
+
 
 Olivier Dupriez (World Bank)
 
