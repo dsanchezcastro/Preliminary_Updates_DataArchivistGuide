@@ -116,7 +116,7 @@ an external reviewer.
 
 This Guide is not an IHSN Toolkit reference or training manual. It is
 assumed that users are already familiar with the Toolkit. A *Toolkit*
-*User’s Guide* is available at www.surveynetwork.org/toolkit.
+*User’s Guide* is available at www.surveynetwork.org/guidelines.
 
 **Before you start: organizing your files**
 
