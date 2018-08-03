@@ -82,7 +82,7 @@ agencies in Africa who provided feedback on the Toolkit.
 +--------------------------------------------------------------------+
 
 Introduction
-============
+-------------
 
 This *Quick Reference Guide for Data Archivists* provides data
 archivists with guidelines to document a micro-dataset in compliance
@@ -119,7 +119,8 @@ This Guide is not an IHSN Toolkit reference or training manual. It is
 assumed that users are already familiar with the Toolkit. A *Toolkit*
 *User’s Guide* is available at www.surveynetwork.org/guidelines.
 
-**Before you start: organizing your files**
+Before you start: organizing your files
+---------------------------------------
 
 Documentation of a dataset will be considerably facilitated if you
 organize your data and other files properly. We recommend that, before
