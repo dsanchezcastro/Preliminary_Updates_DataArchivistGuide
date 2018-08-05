@@ -173,7 +173,7 @@ are recommended:
 
  |image3|
    
-   -  If a dataset contains multiple related files, each record in each
+-  If a dataset contains multiple related files, each record in each
    file must have a unique identifier. This identifier may be made of
    one or multiple variables. These identifiers are also called “key
    variables”, as they are used by statistical packages such as SPSS or
