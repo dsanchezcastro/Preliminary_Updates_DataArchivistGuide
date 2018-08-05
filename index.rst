@@ -141,7 +141,7 @@ anything else, you create the necessary directories as follows:
 |                           |if relevant (see example)                 |
 +------------+--------------+------------------------------------------+
 
-Gathering and preparing the data set
+1. Gathering and preparing the data set
 ====================================
 
 Gathering and preparing data requires great care. Various versions of
