@@ -171,7 +171,7 @@ are recommended:
 
 *Hierarchical file:*
 
-   |image3|
+ |image3|
    
    -  If a dataset contains multiple related files, each record in each
    file must have a unique identifier. This identifier may be made of
