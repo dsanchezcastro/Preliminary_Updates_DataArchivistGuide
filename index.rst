@@ -142,7 +142,7 @@ anything else, you create the necessary directories as follows:
 +------------+--------------+------------------------------------------+
 
 1. Gathering and preparing the data set
-====================================
+=======================================
 
 Gathering and preparing data requires great care. Various versions of
 the data may have been produced. Before starting to document a dataset,
@@ -169,7 +169,7 @@ are recommended:
 
    |image2|
 
-   *Hierarchical file:*
+*Hierarchical file:*
 
    |image3|
 
