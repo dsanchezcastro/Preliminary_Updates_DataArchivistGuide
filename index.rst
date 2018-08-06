@@ -591,28 +591,28 @@ to describe the DDI document.
 |                                   | *Popstan Multiple Indicator       |
 |                                   | Cluster Survey 2002*              |
 +-----------------------------------+-----------------------------------+
-| Metadata Producer                 | Name of the person(s) or          |
-|                                   | organization(s) who documented    |
-|                                   | the dataset. Use the "role"       |
-|                                   | attribute to distinguish          |
-|                                   | different stages of involvement   |
-|                                   | in the production process.        |
+| Metadata Producer                 |Name of the person(s) or           |
+|                                   |organization(s) who documented     |
+|                                   |the dataset. Use the "role"        |
+|                                   |attribute to distinguish           |
+|                                   |different stages of involvement    |
+|                                   |in the production process.         |
 |                                   |                                   |
-|                                   | Example:                          |
-|                                   |                                   |
-|                                   +----------------+------------------+
-|                                   |   *Name*       |*Role*            |
-|                                   +----------------+------------------+
-|                                   |  *National     |*Documentation    |
-|                                   |  Statistics    |of the            |
-|                                   |  Office        |study*            |
-|                                   |  (NSO)*        |                  |
-|                                   +----------------+------------------+
-|                                   | *International | *Review of       |
-|                                   | Household      | the              |
-|                                   | Survey         | metadata*        |
-|                                   | Network        |                  |
-|                                   | (IHSN)*        |                  |
+|                                   |Example:                           |
+|                                   | +----------------+---------------+|
+|                                   | |   *Name*       |*Role*         ||
+|                                   | +----------------+---------------+|
+|                                   | |*National       |*Documentation ||
+|                                   | | Statistics     |of the         ||
+|                                   | | Office         |study*         ||
+|                                   | | (NSO)*         |               ||
+|                                   | +----------------+---------------+|
+|                                   | |*International  | *Review of    ||
+|                                   | |Household       | the           ||
+|                                   | |Survey          | metadata*     ||
+|                                   | |Network         |               ||
+|                                   | |(IHSN)*         |               ||
+|                                   | +----------------+---------------+|
 +-----------------------------------+----------------+------------------+
 |                                   |                                   |           
 | Date of Production                | This is the date (in ISO format   |
