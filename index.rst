@@ -407,7 +407,7 @@ assure there are no duplicates in the data.
 |follows in the “Key variables and relationships” section of each    |
 |data file:                                                          |
 +--------------------------------------------------------------------+
-|                            |image6|                                |
+|                   .. image:: media/image6.png                      |
 +--------------------------------------------------------------------+
 
 If you have imported your data from any format other than fixed ASCII,
