@@ -755,34 +755,33 @@ and methods, scope and coverage, etc.)
 |                                   |     Income and Expenditure Survey |
 |                                   |     2003”*                        |
 +-----------------------------------+-----------------------------------+
-| Study type                        | The study type or *survey type*   |
-|                                   | is the broad category defining    |
-|                                   | the survey. This item has a       |
-|                                   | controlled vocabulary (you may    |
-|                                   | customize the IHSN template to    |
-|                                   | adjust this controlled vocabulary |
-|                                   | if needed).                       |
+| Study type                        |The study type or *survey type*    |
+|                                   |is the broad category defining     |
+|                                   |the survey. This item has a        |
+|                                   |controlled vocabulary (you may     |
+|                                   |customize the IHSN template to     |
+|                                   |adjust this controlled vocabulary  |
+|                                   |if needed).                        |
 +-----------------------------------+-----------------------------------+
-| Series information                | A survey may be repeated at       |
-|                                   | regular intervals (such as an     |
-|                                   | annual labour force survey), or   |
-|                                   | be part of an international       |
-|                                   | survey program (such as the MICS, |
-|                                   | CWIQ, DHS, LSMS and others). The  |
-|                                   | Series information is a           |
-|                                   | description of this “collection”  |
-|                                   | of surveys. A brief description   |
-|                                   | of the characteristics of the     |
-|                                   | survey, including when it         |
-|                                   | started, how many rounds were     |
-|                                   | already implemented, and who is   |
-|                                   | in charge would be provided here. |
-|                                   | If the survey does not belong to  |
-|                                   | a series, leave this field empty. |
+| Series information                |A survey may be repeated at        |
+|                                   |regular intervals (such as an      |
+|                                   |annual labour force survey), or    |
+|                                   |be part of an international        |
+|                                   |survey program (such as the MICS,  |
+|                                   |CWIQ, DHS, LSMS and others). The   |
+|                                   |Series information is a            |
+|                                   |description of this “collection”   |
+|                                   |of surveys. A brief description    |
+|                                   |of the characteristics of the      |
+|                                   |survey, including when it          |
+|                                   |started, how many rounds were      |
+|                                   |already implemented, and who is    |
+|                                   |in charge would be provided here.  |
+|                                   |If the survey does not belong to   |
+|                                   |a series, leave this field empty.  |
 |                                   |                                   |
-|                                   | Example:                          |
-|                                   |                                   |
-|                                   |  The Multiple Indicator Cluster   |
+|                                   |Example:                           |
+|                                   | *The Multiple Indicator Cluster   |
 |                                   | Survey, Round 3 (MICS3) is the    |
 |                                   | third round of MICS surveys,      |
 |                                   | previously conducted around 1995  |
@@ -801,58 +800,57 @@ and methods, scope and coverage, etc.)
 |                                   | of MICS (MICS2) but less so with  |
 |                                   | MICS1, although there have been a |
 |                                   | number of changes in definition   |
-|                                   | of indicators between rounds.     |
+|                                   | of indicators between rounds.*    |
 |                                   |                                   |
-|                                   | Round 1 covered X countries,      |
+|                                   | *Round 1 covered X countries,     |
 |                                   | round 2 covered Y countries, and  |
-|                                   | Round Z covered N countries.      |
+|                                   | Round Z covered N countries.*     |
 +-----------------------------------+-----------------------------------+
-| Translated title                  | In countries with more than one   |
-|                                   | official language, a translation  |
-|                                   | of the title may be provided.     |
-|                                   | Likewise, the translated title    |
-|                                   | may simply be a translation into  |
-|                                   | English from a country’s own      |
-|                                   | language. Special characters      |
-|                                   | should be properly displayed      |
-|                                   | (such as accents and other stress |
-|                                   | marks or different alphabets).    |
+| Translated title                  |In countries with more than one    |
+|                                   |official language, a translation   |
+|                                   |of the title may be provided.      |
+|                                   |Likewise, the translated title     |
+|                                   |may simply be a translation into   |
+|                                   |English from a country’s own       |
+|                                   |language. Special characters       |
+|                                   |should be properly displayed       |
+|                                   |(such as accents and other stress  |
+|                                   |marks or different alphabets).     |
 +-----------------------------------+-----------------------------------+
-| ID Number                         | The ID number of a dataset is a   |
-|                                   | unique number that is used to     |
-|                                   | identify a particular survey.     |
-|                                   | Define and use a consistent       |
-|                                   | scheme to use. Such an ID could   |
-|                                   | be constructed as follows:        |
-|                                   | country-producer-survey-year-vers |
-|                                   | ion                               |
-|                                   | where                             |
+| ID Number                         |The ID number of a dataset is a    |
+|                                   |unique number that is used to      |
+|                                   |identify a particular survey.      |
+|                                   |Define and use a consistent        |
+|                                   |scheme to use. Such an ID could    |
+|                                   |be constructed as follows:         |
+|                                   |country-producer-survey-year-vers  |
+|                                   |ion                                |
+|                                   |where                              |
 |                                   |                                   |
-|                                   | -  *country* is the 3-letter ISO  |
-|                                   |    country abbreviation           |
+|                                   |-  *country* is the 3-letter ISO   |
+|                                   |   country abbreviation            |
 |                                   |                                   |
-|                                   | -  *producer* is the abbreviation |
-|                                   |    of the producing agency        |
+|                                   |-  *producer* is the abbreviation  |
+|                                   |   of the producing agency         |
 |                                   |                                   |
-|                                   | -  *survey* is the survey         |
-|                                   |    abbreviation                   |
+|                                   |-  *survey* is the survey          |
+|                                   |   abbreviation                    |
 |                                   |                                   |
-|                                   | -  *year* is the reference year   |
-|                                   |    (or the year the survey        |
-|                                   |    started)                       |
+|                                   |-  *year* is the reference year    |
+|                                   |   (or the year the survey         |
+|                                   |   started)                        |
 |                                   |                                   |
-|                                   | -  *version* is the number        |
-|                                   |    dataset version number (see    |
-|                                   |    Version Description below)     |
+|                                   |-  *version* is the number         |
+|                                   |   dataset version number (see     |
+|                                   |   Version Description below)      |
 |                                   |                                   |
-|                                   | Example:                          |
+|                                   |Example:                           |
+|                                   |  *The Demographic and Health      |
+|                                   |  Survey implemented by the Uganda |
+|                                   |  Bureau of Statistics in 2005     |
+|                                   |  could have the following ID:*    |
 |                                   |                                   |
-|                                   |  The Demographic and Health       |
-|                                   | Survey implemented by the Uganda  |
-|                                   | Bureau of Statistics in 2005      |
-|                                   | could have the following ID:      |
-|                                   |                                   |
-|                                   |  UGA-UBOS-DHS-2005-v01.           |
+|                                   |  *UGA-UBOS-DHS-2005-v01.*         |
 +-----------------------------------+-----------------------------------+
 | **Version**                       |                                   |
 +-----------------------------------+-----------------------------------+
