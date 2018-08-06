@@ -145,14 +145,19 @@ anything else, you create the necessary directories as follows:
 =======================================
 
 .. image:: media/image1.png
-  :align: center
-  :alt: Example of a flat file
+    :width: 200px
+    :align: center
+    :height: 100px
+    :alt: alternate text
   
-  
-.. note::
-   This is note text. If note text runs over a line, make sure the lines wrap
-   and are indented to the same level as the note tag. If formatting is
-   incorrect, part of the note might not render in the HTML output.
+.. center {text-align: center;}
+
+.align-center {
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+
+This paragraph will be centered.
 
 
 Gathering and preparing data requires great care. Various versions of
