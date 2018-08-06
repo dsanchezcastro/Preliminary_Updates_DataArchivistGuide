@@ -144,10 +144,15 @@ anything else, you create the necessary directories as follows:
 1. Gathering and preparing the data set
 =======================================
 
-.. image:: media/image3.png
-  :width: 400
-  :alt: Alternative text
+.. image:: media/image1.png
   :align: center
+  :alt: Example of a flat file
+  
+  
+.. note::
+   This is note text. If note text runs over a line, make sure the lines wrap
+   and are indented to the same level as the note tag. If formatting is
+   incorrect, part of the note might not render in the HTML output.
 
 
 Gathering and preparing data requires great care. Various versions of
