@@ -426,7 +426,7 @@ outliers or invalid codes, which will require recoding (which can be
 done in the Toolkit or in the source data files which will then have to
 be re-imported).
 
-.. image:: media/image9_1.png
+.. image:: media/Image9_1.PNG
 
 Last, view the content of each data files in the “Data Entry” page. All
 data should be displayed in black fonts. Data displayed in bold red
