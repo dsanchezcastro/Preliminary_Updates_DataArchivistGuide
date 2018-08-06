@@ -694,7 +694,7 @@ and methods, scope and coverage, etc.)
 
 +-----------------------------------+-----------------------------------+
 | **Identification**                                                    |
-+===================================+===================================+
++-----------------------------------+-----------------------------------+
 | Title                             |The title is the official name of  |
 |                                   |the survey as it is stated on the  |
 |                                   |questionnaire or as it appears in  |
@@ -852,7 +852,7 @@ and methods, scope and coverage, etc.)
 |                                   |                                   |
 |                                   |  *UGA-UBOS-DHS-2005-v01.*         |
 +-----------------------------------+-----------------------------------+
-| **Version**                       |                                   |
+| **Version**                                                           |
 +-----------------------------------+-----------------------------------+
 | Description                       | The version description should    |
 |                                   | contain a version number followed |
