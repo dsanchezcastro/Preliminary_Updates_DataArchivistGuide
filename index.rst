@@ -491,9 +491,9 @@ spaces in a file name (use underscore characters instead).
 |Report2007.pdf is saved in a directory C:\HIES2007\DOCS. When you fill |
 |the resource field in the External Resources page, do NOT enter        |
 |“C:\HIES2007\DOCS\Report2007.pdf. Enter the file name as follows:      |
+|                                                                       |
+|.. image:: media/image12.png                                           |
 +----------------------------+-----------------------+------------------+
-|                   .. image:: media/image12.png                        |
-+-----------------------------------------------------------------------+
 
 Some resources might be composed of more than one file (for example, the
 CSPro data entry application includes multiple files that should not be
