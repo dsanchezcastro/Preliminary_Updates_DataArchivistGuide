@@ -411,12 +411,14 @@ assure there are no duplicates in the data.
 +--------------------------------------------------------------------+
 
 If you have imported your data from any format other than fixed ASCII,
-re-sequence the data using the Variables > Resequence option in the
+re-sequence the data using the *Variables* > *Resequence* option in the
 Toolkit. This re-sequencing tool will automatically fill the “StartCol”
 and “EndCol” columns in the variable description section. This must be
 done for each data file.
 
+.. image:: media/image7.png
 
+.. image:: media/image8.png
 
 Before going further, quickly browse all variables in all data files to
 visually check the frequencies. This will allow you to easily spot some
@@ -424,7 +426,7 @@ outliers or invalid codes, which will require recoding (which can be
 done in the Toolkit or in the source data files which will then have to
 be re-imported).
 
-|image7|
+.. image:: media/image9_1.png
 
 Last, view the content of each data files in the “Data Entry” page. All
 data should be displayed in black fonts. Data displayed in bold red
