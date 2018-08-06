@@ -280,7 +280,8 @@ mapping between the original codes and the new HHID.
 -  Sort records by their unique identifier before you save the file.
 
 +--------------------------------------------------------------------+
-|                           *Suggestion:*                            |
+| *Suggestion:*                                                      |
+|                                                                    |
 | If you are in the process of establishing a data archive and plan  |
 | to document a collection of surveys, undertake a full inventory of |
 | all existing data and metadata before you start the documentation. |
