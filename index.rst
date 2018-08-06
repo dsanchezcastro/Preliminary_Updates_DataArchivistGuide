@@ -561,31 +561,32 @@ is a description of that XML file. The IHSN Template selected 5 elements
 to describe the DDI document.
 
 +-----------------------------------+-----------------------------------+
-| Study Title                       | The title is the official name of |
-|                                   | the survey as it is stated on the |
-|                                   | questionnaire or as it appears in |
-|                                   | the design documents. The         |
-|                                   | following items should be noted:  |
+| Study Title                       |The title is the official name of  |
+|                                   |the survey as it is stated on the  |
+|                                   |questionnaire or as it appears in  |
+|                                   |the design documents. The          |
+|                                   |following items should be noted:   |
 |                                   |                                   |
-|                                   | -  Include the reference year(s)  |
-|                                   |    of the survey in the title.    |
+|                                   |-  Include the reference year(s)   |
+|                                   |   of the survey in the title.     |
 |                                   |                                   |
-|                                   | -  Do not include the             |
-|                                   |    abbreviation of the survey     |
-|                                   |    name in the title.             |
+|                                   |-  Do not include the              |
+|                                   |   abbreviation of the survey      |
+|                                   |   name in the title.              |
 |                                   |                                   |
-|                                   | -  As the survey title is a       |
-|                                   |    proper noun, the first letter  |
-|                                   |    of each word should be         |
-|                                   |    capitalized (except for        |
-|                                   |    prepositions or other          |
-|                                   |    conjunctions).                 |
+|                                   |-  As the survey title is a        |
+|                                   |   proper noun, the first letter   |
+|                                   |   of each word should be          |
+|                                   |   capitalized (except for         |
+|                                   |   prepositions or other           |
+|                                   |   conjunctions).                  |
 |                                   |                                   |
-|                                   | -  Including the country name in  |
-|                                   |    the title is optional.         |
+|                                   |-  Including the country name in   |
+|                                   |   the title is optional.          |
 |                                   |                                   |
-|                                   | Examples: National Household      |
-|                                   | Budget Survey 2002-2003*          |
+|                                   |Example:                           |
+|                                   | National Household Budget         |
+|                                   | Survey 2002-2003                  |
 |                                   |                                   |
 |                                   | Popstan Multiple Indicator        |
 |                                   | Cluster Survey 2002               |
