@@ -603,13 +603,13 @@ to describe the DDI document.
 |                                   | |   *Name*       |*Role*         ||
 |                                   | +----------------+---------------+|
 |                                   | |*National       |*Documentation ||
-|                                   | | Statistics     |of the         ||
-|                                   | | Office         |study*         ||
-|                                   | | (NSO)*         |               ||
+|                                   | |Statistics      |of the         ||
+|                                   | |Office          |study*         ||
+|                                   | |(NSO)*          |               ||
 |                                   | +----------------+---------------+|
-|                                   | |*International  | *Review of    ||
-|                                   | |Household       | the           ||
-|                                   | |Survey          | metadata*     ||
+|                                   | |*International  |*Review of     ||
+|                                   | |Household       |the            ||
+|                                   | |Survey          |metadata*      ||
 |                                   | |Network         |               ||
 |                                   | |(IHSN)*         |               ||
 |                                   | +----------------+---------------+|
