@@ -144,8 +144,7 @@ anything else, you create the necessary directories as follows:
 1. Gathering and preparing the data set
 =======================================
 
-.. image:: magnetic-balls.jpg
-   :width: 40pt
+.. image:: media/image3.png
 
 Gathering and preparing data requires great care. Various versions of
 the data may have been produced. Before starting to document a dataset,
@@ -175,7 +174,7 @@ are recommended:
 *Hierarchical file:*
 
 |image3|
-   
+  
 -  If a dataset contains multiple related files, each record in each
    file must have a unique identifier. This identifier may be made of
    one or multiple variables. These identifiers are also called “key
