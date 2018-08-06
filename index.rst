@@ -290,9 +290,8 @@ mapping between the original codes and the new HHID.
 | facilitate this inventory (available at www.surveynetwork.org).    |
 +--------------------------------------------------------------------+
 
-
-Gathering and preparing the documentation
-==========================================
+2. Gathering and preparing the documentation
+============================================
 
 All information related to the survey may be useful and should be
 archived (even if not all will be disseminated to the public). This
