@@ -144,6 +144,7 @@ anything else, you create the necessary directories as follows:
 |                           |if relevant (see example)                 |
 +------------+--------------+------------------------------------------+
 
+
 1. Gathering and preparing the data set
 =======================================
  
