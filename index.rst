@@ -1,4 +1,4 @@
-|image0|
+.. image:: media/image1.png
 
 **International Household Survey Network**
 
@@ -127,7 +127,7 @@ organize your data and other files properly. We recommend that, before
 anything else, you create the necessary directories as follows:
 
 +------------+--------------+------------------------------------------+
-|           |image1|        |Create a directory for the survey.        |
+|.. image:: media/image2.png|Create a directory for the survey.        |
 |                           |We suggest you name it using the survey’s |
 |                           |“HIES2007” for “Household Income and      |
 |                           |Expenditure Survey 2007”                  |
@@ -167,11 +167,11 @@ are recommended:
 
 *Flat file:*
 
-|image2|
+.. image:: media/image3.png
 
 *Hierarchical file:*
 
-|image3|
+.. image:: media/image4.png
   
 -  If a dataset contains multiple related files, each record in each
    file must have a unique identifier. This identifier may be made of
@@ -401,7 +401,7 @@ assure there are no duplicates in the data.
 |district (one record per item per district). Each record is uniquely|
 |identified by variables *district* and *itemno*.                    |
 +--------------------------------------------------------------------+
-|                            |image4|                                |
+|                   .. image:: media/image5.png                      |
 +--------------------------------------------------------------------+
 |In the IHSN Toolkit, these relationships will be established as     |
 |follows in the “Key variables and relationships” section of each    |
