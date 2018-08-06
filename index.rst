@@ -509,7 +509,7 @@ separate resources, or zip the files into one single file. In such case,
 list the different formats available in the “Content/ Description”
 field.
 
-4. Completing metadata
+5. Completing metadata
 ======================
 
 The IHSN Toolkit (version 1.n) makes use of the Data Documentation
@@ -534,7 +534,7 @@ each field included in the IHSN template are provided below.
 | available in multiple languages.                                   |
 +--------------------------------------------------------------------+
 
-**Overall recommendations:***
+**Overall recommendations:**
 
 -  As an archivist, you may need to seek assistance from key experts
    involved in some of the technical aspects of the survey.
