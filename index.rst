@@ -144,6 +144,9 @@ anything else, you create the necessary directories as follows:
 1. Gathering and preparing the data set
 =======================================
 
+.. image:: magnetic-balls.jpg
+   :width: 40pt
+
 Gathering and preparing data requires great care. Various versions of
 the data may have been produced. Before starting to document a dataset,
 it is important to ensure that you have the most appropriate version of
