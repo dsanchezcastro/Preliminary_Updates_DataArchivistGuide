@@ -192,7 +192,7 @@ are recommended:
 
    If you prepare your data files for public dissemination, it may be
    preferable to generate a unique household identification that would
-   not be a compilation of geographic codes (because geographic codes
+   **not** be a compilation of geographic codes (because geographic codes
    are highly identifying). In such case, it is recommended to generate
    an ID based on a sequential number.
 
