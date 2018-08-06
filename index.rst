@@ -585,11 +585,11 @@ to describe the DDI document.
 |                                   |   the title is optional.          |
 |                                   |                                   |
 |                                   |Example:                           |
-|                                   | *National Household Budget        |
-|                                   | Survey 2002-2003*                 |
+|                                   |  -  *National Household Budget    |
+|                                   |     Survey 2002-2003*             |
 |                                   |                                   |
-|                                   | *Popstan Multiple Indicator       |
-|                                   | Cluster Survey 2002*              |
+|                                   |  -  *Popstan Multiple Indicator   |
+|                                   |     Cluster Survey 2002*          |
 +-----------------------------------+-----------------------------------+
 | Metadata Producer                 |Name of the person(s) or           |
 |                                   |organization(s) who documented     |
@@ -695,64 +695,65 @@ and methods, scope and coverage, etc.)
 +-----------------------------------+-----------------------------------+
 | **Identification**                                                    |
 +===================================+===================================+
-| Title                             | The title is the official name of |
-|                                   | the survey as it is stated on the |
-|                                   | questionnaire or as it appears in |
-|                                   | the design documents. The         |
-|                                   | following items should be noted:  |
+| Title                             |The title is the official name of  |
+|                                   |the survey as it is stated on the  |
+|                                   |questionnaire or as it appears in  |
+|                                   |the design documents. The          |
+|                                   |following items should be noted:   |
 |                                   |                                   |
-|                                   | -  Include the reference year(s)  |
-|                                   |    of the survey in the title.    |
+|                                   |-  Include the reference year(s)   |
+|                                   |   of the survey in the title.     |
 |                                   |                                   |
-|                                   | -  Do not include the             |
-|                                   |    abbreviation of the survey     |
-|                                   |    name in the title.             |
+|                                   |-  Do not include the              |
+|                                   |   abbreviation of the survey      |
+|                                   |   name in the title.              |
 |                                   |                                   |
-|                                   | -  As the survey title is a       |
-|                                   |    proper noun, the first letter  |
-|                                   |    of each word should be         |
-|                                   |    capitalized (except for        |
-|                                   |    prepositions or other          |
-|                                   |    conjunctions).                 |
+|                                   |-  As the survey title is a        |
+|                                   |   proper noun, the first letter   |
+|                                   |   of each word should be          |
+|                                   |   capitalized (except for         |
+|                                   |   prepositions or other           |
+|                                   |   conjunctions).                  |
 |                                   |                                   |
-|                                   | -  Including the country name in  |
-|                                   |    the title is optional.         |
+|                                   |-  Including the country name in   |
+|                                   |   the title is optional.          |
 |                                   |                                   |
-|                                   | The title will in most cases be   |
-|                                   | identical to the Document Title   |
-|                                   | (see above).                      |
+|                                   |The title will in most cases be    |
+|                                   |identical to the Document Title    |
+|                                   |(see above).                       |
 |                                   |                                   |
-|                                   | Examples:  National Household     |
-|                                   | Budget Survey 2002-2003           |
+|                                   |Example:                           |
+|                                   |  -  *National Household Budget    |
+|                                   |     Survey 2002-2003*             |
 |                                   |                                   |
-|                                   |  Popstan Multiple Indicator       |
-|                                   | Cluster Survey 2002               |
+|                                   |  -  *Popstan Multiple Indicator   |
+|                                   |     Cluster Survey 2002*          |
 +-----------------------------------+-----------------------------------+
-| Subtitle                          | Subtitle is optional and rarely   |
-|                                   | used. A subtitle can be used to   |
-|                                   | add information usually           |
-|                                   | associated with a sequential      |
-|                                   | qualifier for a survey.           |
+| Subtitle                          |Subtitle is optional and rarely    |
+|                                   |used. A subtitle can be used to    |
+|                                   |add information usually            |
+|                                   |associated with a sequential       |
+|                                   |qualifier for a survey.            |
 |                                   |                                   |
-|                                   |  Example: Title: Welfare          |
-|                                   | Monitoring Survey 2007            |
+|                                   |Example:                           | 
+|                                   |  *Title: Welfare Monitoring       |
+|                                   |  Survey 2007*                     |
 |                                   |                                   |
-|                                   |  Subtitle: Fifth round            |
+|                                   |  *Subtitle: Fifth round*          |
 +-----------------------------------+-----------------------------------+
-| Abbreviation                      | The abbreviation of a survey is   |
-|                                   | usually the first letter of each  |
-|                                   | word of the titled survey. The    |
-|                                   | survey reference year(s) may be   |
-|                                   | included.                         |
+| Abbreviation                      |The abbreviation of a survey is    |
+|                                   |usually the first letter of each   |
+|                                   |word of the titled survey. The     |
+|                                   |survey reference year(s) may be    |
+|                                   |included.                          |
 |                                   |                                   |
-|                                   | Examples:                         |
+|                                   |Example:                           |
+|                                   |  -  *DHS 2000 for “Demographic and|
+|                                   |     Health Survey 2005”*          |
 |                                   |                                   |
-|                                   | -   DHS 2000 for “Demographic and |
-|                                   |    Health Survey 2005”            |
-|                                   |                                   |
-|                                   | -   HIES 2002-2003 for “Household |
-|                                   |    Income and Expenditure Survey  |
-|                                   |    2003”                          |
+|                                   |  -  *HIES 2002-2003 for “Household|
+|                                   |     Income and Expenditure Survey |
+|                                   |     2003”*                        |
 +-----------------------------------+-----------------------------------+
 | Study type                        | The study type or *survey type*   |
 |                                   | is the broad category defining    |
