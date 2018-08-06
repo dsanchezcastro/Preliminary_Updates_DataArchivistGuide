@@ -143,23 +143,7 @@ anything else, you create the necessary directories as follows:
 
 1. Gathering and preparing the data set
 =======================================
-
-.. image:: media/image1.png
-    :width: 200px
-    :align: center
-    :height: 100px
-    :alt: alternate text
-  
-.. center {text-align: center;}
-
-.align-center {
-   display: block;
-   margin-left: auto;
-   margin-right: auto;
-
-This paragraph will be centered.
-
-
+ 
 Gathering and preparing data requires great care. Various versions of
 the data may have been produced. Before starting to document a dataset,
 it is important to ensure that you have the most appropriate version of
