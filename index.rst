@@ -647,43 +647,42 @@ to describe the DDI document.
 |                                   |  Data Appraisal which was         |
 |                                   |  updated.*                        |
 +-----------------------------------+-----------------------------------+
-| DDI Document ID Number            | The ID number of a DDI document   |
-|                                   | is a unique number that is used   |
-|                                   | to identify this DDI file. Define |
-|                                   | and use a consistent scheme to    |
-|                                   | use. Such an ID could be          |
-|                                   | constructed as follows:           |
-|                                   | DDI-country-producer-survey-year  |
-|                                   | where                             |
+| DDI Document ID Number            |The ID number of a DDI document    |
+|                                   |is a unique number that is used    |
+|                                   |to identify this DDI file. Define  |
+|                                   |and use a consistent scheme to     |
+|                                   |use. Such an ID could be           |
+|                                   |constructed as follows:            |
+|                                   |DDI-country-producer-survey-year   |
+|                                   |where                              |
 |                                   |                                   |
-|                                   | -  *country* is the 3-letter ISO  |
-|                                   |    country abbreviation           |
+|                                   |-  *country* is the 3-letter ISO   |
+|                                   |   country abbreviation            |
 |                                   |                                   |
-|                                   | -  *producer* is the abbreviation |
-|                                   |    of the producing agency        |
+|                                   |-  *producer* is the abbreviation  |
+|                                   |   of the producing agency         |
 |                                   |                                   |
-|                                   | -  *survey* is the survey         |
-|                                   |    abbreviation                   |
+|                                   |-  *survey* is the survey          |
+|                                   |   abbreviation                    |
 |                                   |                                   |
-|                                   | -  *year* is the reference year   |
-|                                   |    (or the year the survey        |
-|                                   |    started)                       |
+|                                   |-  *year* is the reference year    |
+|                                   |   (or the year the survey         |
+|                                   |   started)                        |
 |                                   |                                   |
-|                                   | -  DDI document version number    |
+|                                   |- DDI document version number      |
 |                                   |                                   |
-|                                   | Example:                          |
-|                                   |                                   |
-|                                   | The DDI file related to the       |
-|                                   | Demographic and Health Survey     |
-|                                   | documented by staff from the      |
-|                                   | Uganda Bureau of Statistics in    |
-|                                   | 2005 would have the following     |
-|                                   | ID:                               |
-|                                   |                                   |
-|                                   | DDI-UGA-UBOS-DHS-2005-v01. If     |
-|                                   | the same survey is documented by  |
-|                                   | a staff from the IHSN, this would |
-|                                   | be DDI-UGA-IHSN-DHS-205-v01.      |
+|                                   |Example:                           |
+|                                   |  *The DDI file related to the     |
+|                                   |  Demographic and Health Survey    |
+|                                   |  documented by staff from the     |
+|                                   |  Uganda Bureau of Statistics in   |
+|                                   |  2005 would have the following    |
+|                                   |  ID:                              |
+|                                   |  DDI-UGA-UBOS-DHS-2005-v01. If    |
+|                                   |  the same survey is documented by |
+|                                   |  a staff from the IHSN, this      |
+|                                   |  would be                         |
+|                                   |  DDI-UGA-IHSN-DHS-205-v01.*       |
 +-----------------------------------+-----------------------------------+
 
 5.2. Good practices for completing the Study Description
