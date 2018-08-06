@@ -234,7 +234,7 @@ mapping between the original codes and the new HHID.
 
 -  Do not include string variables if they can be converted into numeric
    variables. Statistical software is very inefficient when working with
-   string variables. In Stata, the destring and the encode commands can
+   string variables. In Stata, the *destring* and the *encode* commands can
    be used to make such conversions.
 
 -  Verify the completeness of your data files by comparing the content
@@ -266,7 +266,7 @@ mapping between the original codes and the new HHID.
    easily identified in at least one of the data files. These variables
    are needed for the calculation of sampling errors.
 
--  Put the variables in a logic sequence (using the order command in
+-  Put the variables in a logic sequence (using the *order* command in
    Stata if needed or the “/KEEP=” option in SPSS when saving a file).
 
 -  Generate descriptive statistics for all variables (frequencies for
@@ -274,10 +274,21 @@ mapping between the original codes and the new HHID.
    that these statistics look reasonable.
 
 -  Compress the variables to reduce the file size; use the compress
-   command in Stata, or the compress option when you save a SPSS data
+   command in Stata, or the *compress* option when you save a SPSS data
    file.
 
 -  Sort records by their unique identifier before you save the file.
+
++--------------------------------------------------------------------+
+|                           *Suggestion:*                            |
+| If you are in the process of establishing a data archive and plan  |
+| to document a collection of surveys, undertake a full inventory of |
+| all existing data and metadata before you start the documentation. |
+| Use the IHSN Inventory Guidelines and Forms to before you start the|
+| documentation. Use the *IHSN Inventory Guidelines and Forms* to    |
+| facilitate this inventory (available at www.surveynetwork.org).    |
++--------------------------------------------------------------------+
+
 
 Gathering and preparing the documentation
 ==========================================
