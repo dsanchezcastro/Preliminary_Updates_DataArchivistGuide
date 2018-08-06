@@ -226,9 +226,9 @@ are recommended:
 +-----------+-----------+-----------+-------+-------------+-------------+
 
 
-   Options 2 and 3 are recommended. Note that if option 3 is chosen, it
-   is crucial to preserve (but not distribute) a file that would provide
-   the mapping between the original codes and the new HHID.
+Options 2 and 3 are recommended. Note that if option 3 is chosen, it is 
+crucial to preserve (but not distribute) a file that would provide the 
+mapping between the original codes and the new HHID.
 
 -  Make sure that, in all data files, the identification variable(s)
    provide a unique identifier. Use the *duplicate* function in SPSS or
