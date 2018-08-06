@@ -144,7 +144,6 @@ anything else, you create the necessary directories as follows:
 |                           |if relevant (see example)                 |
 +------------+--------------+------------------------------------------+
 
-
 1. Gathering and preparing the data set
 =======================================
  
@@ -510,8 +509,8 @@ separate resources, or zip the files into one single file. In such case,
 list the different formats available in the “Content/ Description”
 field.
 
-Completing metadata
-===================
+4. Completing metadata
+======================
 
 The IHSN Toolkit (version 1.n) makes use of the Data Documentation
 Initiative (DDI Version 2) and the Dublin Core (DCMI version X) metadata
@@ -527,7 +526,15 @@ Description, Study Description, Data Files Description, Variables
 Description, and External Resources Description. Recommendations for
 each field included in the IHSN template are provided below.
 
-**Overall recommendations:**
++--------------------------------------------------------------------+
+| The IHSN recommends using the standardized IHSN DDI/DCMI templates |
+| (Study Template and External Resources Template). This Quick       |
+| Reference Guide is based on these two templates. Visit the IHSN    |
+| website to download the latest version of these templates,         |
+| available in multiple languages.                                   |
++--------------------------------------------------------------------+
+
+**Overall recommendations:***
 
 -  As an archivist, you may need to seek assistance from key experts
    involved in some of the technical aspects of the survey.
