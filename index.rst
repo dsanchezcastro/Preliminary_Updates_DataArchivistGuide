@@ -203,18 +203,18 @@ are recommended:
    combination of variables PROV (Province), DIST (District), EA
    (Enumeration Area), HHNUM (Household Number). The following options
    are possible:
-
-=====  =====  =====  ===========   ======================   ========================
- Option 1: Use a combination of    Option 2: Generate a      Option 3: Generate a
-              four variables             concatenated ID           sequential number
---------------------------------   ----------------------   ------------------------
-PROV   DIST    EA    HHNUM         HHID                     HHID   
-=====  =====  =====  ===========   ======================   ========================
-12     01     014    004           1201014004               1         
-12     01     015    001           1201015001               2         
-13     07     008    112           1307008112               3         
-Etc    Etc    Etc    Etc           Etc                      Etc       
-=====  =====  =====  ===========   ======================   ========================
+   
+=====  =====  =====  ========== ==================== =====================
+ Option 1: Use a combination of Option 2: Generate a  Option 3: Generate a
+              four variables       concatenated ID       sequential number
+------------------------------- -------------------- ---------------------
+PROV   DIST    EA    HHNUM      HHID                 HHID                 
+=====  =====  =====  ========== ==================== =====================
+12     01     014    004        1201014004           1                    
+12     01     015    001        1201015001           2                    
+13     07     008    112        1307008112           3                    
+Etc    Etc    Etc    Etc        Etc                  Etc                  
+=====  =====  =====  ========== ==================== =====================
 
 Options 2 and 3 are recommended. Note that if option 3 is chosen, it is 
 crucial to preserve (but not distribute) a file that would provide the 
