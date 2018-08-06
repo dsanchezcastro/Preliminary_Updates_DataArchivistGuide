@@ -585,11 +585,11 @@ to describe the DDI document.
 |                                   |   the title is optional.          |
 |                                   |                                   |
 |                                   |Example:                           |
-|                                   | National Household Budget         |
-|                                   | Survey 2002-2003                  |
+|                                   | *National Household Budget        |
+|                                   | Survey 2002-2003*                 |
 |                                   |                                   |
-|                                   | Popstan Multiple Indicator        |
-|                                   | Cluster Survey 2002               |
+|                                   | *Popstan Multiple Indicator       |
+|                                   | Cluster Survey 2002*              |
 +-----------------------------------+-----------------------------------+
 | Metadata Producer                 | Name of the person(s) or          |
 |                                   | organization(s) who documented    |
@@ -601,21 +601,20 @@ to describe the DDI document.
 |                                   | Example:                          |
 |                                   |                                   |
 |                                   +----------------+------------------+
-|                                   |   Name         |Role              |
+|                                   |   *Name*       |*Role*            |
 |                                   +----------------+------------------+
-|                                   |  National      |Documentation     |
+|                                   |  *National     |*Documentation    |
 |                                   |  Statistics    |of the            |
-|                                   |  Office        |study             |
-|                                   |  (NSO)         |                  |
+|                                   |  Office        |study*            |
+|                                   |  (NSO)*        |                  |
 |                                   +----------------+------------------+
-|                                   | International  | Review of        |
+|                                   | *International | *Review of       |
 |                                   | Household      | the              |
-|                                   | Survey         | metadata         |
+|                                   | Survey         | metadata*        |
 |                                   | Network        |                  |
-|                                   | (IHSN)         |                  |
-|                                   |                |                  |
-|                                   |                |                  |
+|                                   | (IHSN)*        |                  |
 +-----------------------------------+----------------+------------------+
+|                                   |                                   |           
 | Date of Production                | This is the date (in ISO format   |
 |                                   | YYYY-MM-DD) the DDI document was  |
 |                                   | produced (not distributed or      |
