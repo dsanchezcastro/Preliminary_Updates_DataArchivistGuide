@@ -145,6 +145,10 @@ anything else, you create the necessary directories as follows:
 =======================================
 
 .. image:: media/image3.png
+  :width: 400
+  :alt: Alternative text
+  :align: center
+
 
 Gathering and preparing data requires great care. Various versions of
 the data may have been produced. Before starting to document a dataset,
