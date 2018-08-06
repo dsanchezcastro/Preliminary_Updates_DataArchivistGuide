@@ -231,11 +231,11 @@ are recommended:
    the mapping between the original codes and the new HHID.
 
 -  Make sure that, in all data files, the identification variable(s)
-   provide a unique identifier. Use the duplicate function in SPSS or
-   the isid command in Stata to verify this.
+   provide a unique identifier. Use the *duplicate* function in SPSS or
+   the *isid* command in Stata to verify this.
 
 -  If your dataset is hierarchical, carefully test the file
-   relationships (using the merge command in SPSS and Stata). For a
+   relationships (using the *merge* command in SPSS and Stata). For a
    household survey for example, verify the all records in the
    individual-level files have a corresponding household in the
    household-level master file. Verify also that all households have at
