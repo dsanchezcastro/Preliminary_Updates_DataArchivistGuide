@@ -613,41 +613,39 @@ to describe the DDI document.
 |                                   | |Network         |               ||
 |                                   | |(IHSN)*         |               ||
 |                                   | +----------------+---------------+|
-+-----------------------------------+----------------+------------------+
-|                                   |                                   |           
-| Date of Production                | This is the date (in ISO format   |
-|                                   | YYYY-MM-DD) the DDI document was  |
-|                                   | produced (not distributed or      |
-|                                   | archived). This date will be      |
-|                                   | automatically imputed when you    |
-|                                   | save the file.                    |
++-----------------------------------+----------------+------------------+       
+| Date of Production                |This is the date (in ISO format    |
+|                                   |YYYY-MM-DD) the DDI document was   |
+|                                   |produced (not distributed or       |
+|                                   |archived). This date will be       |
+|                                   |automatically imputed when you     |
+|                                   |save the file.                     |
 +-----------------------------------+-----------------------------------+
-| DDI Document Version              | Documenting a dataset is not a    |
-|                                   | trivial exercise. Producing       |
-|                                   | “perfect” metadata is probably    |
-|                                   | impossible. It may therefore      |
-|                                   | happen that, having identified    |
-|                                   | errors in a DDI document or       |
-|                                   | having received suggestions for   |
-|                                   | improvement, you decide to modify |
-|                                   | the Document even after a first   |
-|                                   | version has been disseminated.    |
-|                                   | This element is used to identify  |
-|                                   | and describe the current version  |
-|                                   | of the document. It is good       |
-|                                   | practice to provide a version     |
-|                                   | number (and date), and            |
-|                                   | information on what distinguishes |
-|                                   | this version from the previous    |
-|                                   | one(s) if relevant.               |
+| DDI Document Version              |Documenting a dataset is not a     |
+|                                   |trivial exercise. Producing        |
+|                                   |“perfect” metadata is probably     |
+|                                   |impossible. It may therefore       |
+|                                   |happen that, having identified     |
+|                                   |errors in a DDI document or        |
+|                                   |having received suggestions for    |
+|                                   |improvement, you decide to modify  |
+|                                   |the Document even after a first    |
+|                                   |version has been disseminated.     |
+|                                   |This element is used to identify   |
+|                                   |and describe the current version   |
+|                                   |of the document. It is good        |
+|                                   |practice to provide a version      |
+|                                   |number (and date), and             |
+|                                   |information on what distinguishes  |
+|                                   |this version from the previous     |
+|                                   |one(s) if relevant.                |
 |                                   |                                   |
-|                                   | Example:                          |
-|                                   |                                   |
-|                                   | Version 1.1 (July 2006). This     |
-|                                   | version is identical to version   |
-|                                   | 1.0, except for the section on    |
-|                                   | Data Appraisal which was          |
-|                                   | updated.                          |
+|                                   |Example:                           |
+|                                   |  *Version 1.1 (July 2006). This   |
+|                                   |  version is identical to version  |
+|                                   |  1.0, except for the section on   |
+|                                   |  Data Appraisal which was         |
+|                                   |  updated.*                        |
 +-----------------------------------+-----------------------------------+
 | DDI Document ID Number            | The ID number of a DDI document   |
 |                                   | is a unique number that is used   |
