@@ -347,15 +347,16 @@ useful, although not required.
 
 Scan all resources with an updated virus detection application.
 
-Importing data and establishing relationships
-=============================================
+3. Importing data and establishing relationships
+================================================
 
 After all data and documentation files are gathered and checked, import
 the data files in the Toolkit. In the Microdata Management Toolkit,
 order the files in a logical fashion (e.g. sequentially through
 sections).
 
-   Note: If you are documenting a population census and have very large
+.. note::
+   If you are documenting a population census and have very large
    data files, it is recommended to split the files by geographic area.
    Typically, you will have a file at individual level, one at the
    household level, and possibly one at the community level, for each
