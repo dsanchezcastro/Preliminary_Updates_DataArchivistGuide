@@ -433,7 +433,7 @@ data should be displayed in black fonts. Data displayed in bold red
 indicate out of range values. Data in bold blue fonts indicate that
 value labels are missing for that variable.
 
-|image8|
+.. image:: media/image10.png
 
 Save the file. The Toolkit saves all data files and the information you
 already added (on key relationships, etc) in one single file (Nesstar
@@ -442,8 +442,53 @@ using the survey abbreviation, year and version number as file name
 (e.g., HIES2007_v11). Note that it is good practice to avoid using
 spaces in a file name (use underscore characters instead).
 
-Importing external resources
-============================
+4. Importing external resources
+===============================
+
+
++-----------------+-----------------+-----------------+------------------+
+|Before importing your external resources, create folders in the Toolkit |
+|as necessary (these are directories in the External Resources section   |
+|in the Toolkit, not new directories on your hard drive). If you have    |
+|very few external resources, all resources can be listed in the root    |
+|directory. If you have many, organize them by type of resources (in the |
+|example below, we have created separate directories for the             |
+|Questionnaires, Technical Documents, Computer Programs, Reports,        |
+|Tables, Photos and Maps).                                               |
++-----------------+-----------------+-----------------+------------------+
+|                                                     |Create an entry fo|
+|                                                     |resource by enteri|
+|                                                     |in the Resource In|
+|                                                     |field. This label |
+|             .. image:: media/image11.png            |short but explicit|
+|                :height: 300px                       |identify the resou|
+|                :width: 500 px                       |“Resource” is used|
+|                :alt: alternate text                 |the filename or UR|
+|                :align: center                       |(website) of the e|
+|                                                     |resource.         |
++-----------------+-----------------+-----------------+------------------+
+|The resource consists of the filename, and a relative path (relative to |
+|the directory where your study Nesstar file is saved). The reason for   |
+|entering a relative path is that it will allow you to move the whole    |
+|study directory and its subdirectories to another location or another   |
+|drive, without having to re-enter the location of the files.            |
++-----------------+-----------------+-----------------+------------------+
+
+
++------------+---------------+-----------+ 
+| body row 2 | Cells may span columns   | 
++------------+---------------+-----------+ 
+|.. image:: media/image11.png| - Cells   | 
++                            | - contain | 
+|                            | - blocks. | 
++------------+---------------+-----------+
+
+
+
+
+
+
+
 
 Before importing your external resources, create folders in the Toolkit
 as necessary (these are directories in the External Resources section in
