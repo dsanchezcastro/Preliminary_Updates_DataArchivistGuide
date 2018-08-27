@@ -2300,39 +2300,38 @@ and methods, scope and coverage, etc.)
 |                                   |    inferences based upon such     |
 |                                   |    uses.*                         |
 +-----------------------------------+-----------------------------------+
-| Citation requirements             | Citation requirement is the way   |
-|                                   | that the dataset should be        |
-|                                   | referenced when cited in any      |
-|                                   | publication. Every dataset should |
-|                                   | have a citation requirement. This |
-|                                   | will guarantee that the data      |
-|                                   | producer gets proper credit, and  |
-|                                   | that analytical results can be    |
-|                                   | linked to the proper version of   |
-|                                   | the dataset. The Access Policy    |
-|                                   | should explicitly mention the     |
-|                                   | obligation to comply with the     |
-|                                   | citation requirement (in the      |
-|                                   | example above, see item 5). The   |
-|                                   | citation should include at least  |
-|                                   | the primary investigator, the     |
-|                                   | name and abbreviation of the      |
-|                                   | dataset, the reference year, and  |
-|                                   | the version number. Include also  |
-|                                   | a website where the data or       |
-|                                   | information on the data is made   |
-|                                   | available by the official data    |
-|                                   | depositor.                        |
+| Citation requirements             |Citation requirement is the way    |
+|                                   |that the dataset should be         |
+|                                   |referenced when cited in any       |
+|                                   |publication. Every dataset should  |
+|                                   |have a citation requirement. This  |
+|                                   |will guarantee that the data       |
+|                                   |producer gets proper credit, and   |
+|                                   |that analytical results can be     |
+|                                   |linked to the proper version of    |
+|                                   |the dataset. The Access Policy     |
+|                                   |should explicitly mention the      |
+|                                   |obligation to comply with the      |
+|                                   |citation requirement (in the       |
+|                                   |example above, see item 5). The    |
+|                                   |citation should include at least   |
+|                                   |the primary investigator, the      |
+|                                   |name and abbreviation of the       |
+|                                   |dataset, the reference year, and   |
+|                                   |the version number. Include also   |
+|                                   |a website where the data or        |
+|                                   |information on the data is made    |
+|                                   |available by the official data     |
+|                                   |depositor.                         |
 |                                   |                                   |
-|                                   | Example:                          |
-|                                   |                                   |
-|                                   | "National Statistics Office of    |
-|                                   | Popstan, Multiple Indicators      |
-|                                   | Cluster Survey 2000 (MICS 2000),  |
-|                                   | Version 1.1 of the public use     |
-|                                   | dataset (April 2001), provided by |
-|                                   | the National Data Archive.        |
-|                                   | www.nda_popstan.org"              |
+|                                   |Example:                           |
+|                                   |  *"National Statistics Office of  |
+|                                   |  Popstan, Multiple Indicators     |
+|                                   |  Cluster Survey 2000 (MICS 2000), |
+|                                   |  Version 1.1 of the public use    |
+|                                   |  dataset (April 2001), provided by|
+|                                   |  the National Data Archive.       |
+|                                   |  www.nda_popstan.org"*            |
 +-----------------------------------+-----------------------------------+
 | **Disclaimer and Copyright**      |                                   |
 +-----------------------------------+-----------------------------------+
