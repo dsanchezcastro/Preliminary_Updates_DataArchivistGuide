@@ -3183,108 +3183,108 @@ standard (which complements the DDI standard).
 |                                   |   aggregated results of the       |
 |                                   |   survey).                        |
 +-----------------------------------+-----------------------------------+
-| Title                             | Full title of the document as it  |
-|                                   | is provided on the cover page.    |
+| Title                             |Full title of the document as it   |
+|                                   |is provided on the cover page.     |
 +-----------------------------------+-----------------------------------+
-| Subtitle                          | Subtitle if relevant.             |
+| Subtitle                          |Subtitle if relevant.              |
 +-----------------------------------+-----------------------------------+
-| Author(s)                         | Include all authors that are      |
-|                                   | listed on the report.             |
+| Author(s)                         |Include all authors that are       |
+|                                   |listed on the report.              |
 +-----------------------------------+-----------------------------------+
-| Date                              | Date of the publication of the    |
-|                                   | report or resource (at least      |
-|                                   | month and year). For reports,     |
-|                                   | this is most likely stated on the |
-|                                   | cover page of the document. For   |
-|                                   | other types of resources, put     |
-|                                   | here the date the resource was    |
-|                                   | produced.                         |
+| Date                              |Date of the publication of the     |
+|                                   |report or resource (at least       |
+|                                   |month and year). For reports,      |
+|                                   |this is most likely stated on the  |
+|                                   |cover page of the document. For    |
+|                                   |other types of resources, put      |
+|                                   |here the date the resource was     |
+|                                   |produced.                          |
 +-----------------------------------+-----------------------------------+
-| Country                           | The country (or countries) that   |
-|                                   | are covered by the associated     |
-|                                   | document.                         |
+| Country                           |The country (or countries) that    |
+|                                   |are covered by the associated      |
+|                                   |document.                          |
 +-----------------------------------+-----------------------------------+
-| Language                          | Use the Language element to list  |
-|                                   | all languages which appear in a   |
-|                                   | resource. The languages should be |
-|                                   | selected from the drop-down list, |
-|                                   | and each language should appear   |
-|                                   | on its own line. The proposed     |
-|                                   | controlled vocabulary is based on |
-|                                   | ISO 639-3s.                       |
+| Language                          |Use the Language element to list   |
+|                                   |all languages which appear in a    |
+|                                   |resource. The languages should be  |
+|                                   |selected from the drop-down list,  |
+|                                   |and each language should appear    |
+|                                   |on its own line. The proposed      |
+|                                   |controlled vocabulary is based on  |
+|                                   |ISO 639-3s.                        |
 +-----------------------------------+-----------------------------------+
-| Format                            | The file format provides          |
-|                                   | information on the kind of        |
-|                                   | electronic document being         |
-|                                   | provided. This includes: PDF,     |
-|                                   | Word, Excel etc. This is a        |
-|                                   | controlled vocabulary. If the     |
-|                                   | controlled vocabulary does not    |
-|                                   | provide the format you need, type |
-|                                   | it (or add it in the controlled   |
-|                                   | vocabulary using the Toolkit      |
-|                                   | Template Editor). Providing       |
-|                                   | information on the format will    |
-|                                   | inform the user on the software   |
-|                                   | needed to open the file.          |
+| Format                            |The file format provides           |
+|                                   |information on the kind of         |
+|                                   |electronic document being          |
+|                                   |provided. This includes: PDF,      |
+|                                   |Word, Excel etc. This is a         |
+|                                   |controlled vocabulary. If the      |
+|                                   |controlled vocabulary does not     |
+|                                   |provide the format you need, type  |
+|                                   |it (or add it in the controlled    |
+|                                   |vocabulary using the Toolkit       |
+|                                   |Template Editor). Providing        |
+|                                   |information on the format will     |
+|                                   |inform the user on the software    |
+|                                   |needed to open the file.           |
 +-----------------------------------+-----------------------------------+
-| ID Number                         | If there is a unique ID number    |
-|                                   | which references the document     |
-|                                   | (such as a Library of Congress    |
-|                                   | number or a World Bank            |
-|                                   | Publication number) include this  |
-|                                   | as the ID Number.                 |
+| ID Number                         |If there is a unique ID number     |
+|                                   |which references the document      |
+|                                   |(such as a Library of Congress     |
+|                                   |number or a World Bank             |
+|                                   |Publication number) include this   |
+|                                   |as the ID Number.                  |
 +-----------------------------------+-----------------------------------+
-| Contributor(s)                    | Include the names of all          |
-|                                   | organizations that have been      |
-|                                   | involved or contributed to        |
-|                                   | producing the publication. This   |
-|                                   | included funding sources as well  |
-|                                   | as authoring entities.            |
+| Contributor(s)                    |Include the names of all           |
+|                                   |organizations that have been       |
+|                                   |involved or contributed to         |
+|                                   |producing the publication. This    |
+|                                   |included funding sources as well   |
+|                                   |as authoring entities.             |
 +-----------------------------------+-----------------------------------+
-| Publisher(s)                      | Include the official              |
-|                                   | organization(s) accredited with   |
-|                                   | disseminating the report.         |
+| Publisher(s)                      |Include the official               |
+|                                   |organization(s) accredited with    |
+|                                   |disseminating the report.          |
 +-----------------------------------+-----------------------------------+
-| Rights                            | Some resources are protected by   |
-|                                   | copyrights. Use the Rights        |
-|                                   | element to provide a clear and    |
-|                                   | complete description of the usage |
-|                                   | rights if relevant.               |
+| Rights                            |Some resources are protected by    |
+|                                   |copyrights. Use the Rights         |
+|                                   |element to provide a clear and     |
+|                                   |complete description of the usage  |
+|                                   |rights if relevant.                |
 +-----------------------------------+-----------------------------------+
-| Description                       | A brief description of the        |
-|                                   | resource.                         |
+| Description                       |A brief description of the         |
+|                                   |resource.                          |
 +-----------------------------------+-----------------------------------+
-| Abstract                          | An abstract of the content of the |
-|                                   | resource.                         |
+| Abstract                          |An abstract of the content of the  |
+|                                   |resource.                          |
 +-----------------------------------+-----------------------------------+
-| Table of Contents                 | Use the Table of Contents element |
-|                                   | to list all sections of a report, |
-|                                   | questionnaire, or other document. |
-|                                   | When copying a table of contents  |
-|                                   | from another file into a project, |
-|                                   | pay close attention to the        |
-|                                   | formatting as tabs, indents, and  |
-|                                   | fonts may not be preserved.       |
-|                                   | Because the text cannot be        |
-|                                   | formatted, adopting strategies    |
-|                                   | such as placing chapter titles in |
-|                                   | capital letters can help keep a   |
-|                                   | table of contents organized.      |
-|                                   | Including page numbers is not     |
-|                                   | crucial.                          |
+| Table of Contents                 |Use the Table of Contents element  |
+|                                   |to list all sections of a report,  |
+|                                   |questionnaire, or other document.  |
+|                                   |When copying a table of contents   |
+|                                   |from another file into a project,  |
+|                                   |pay close attention to the         |
+|                                   |formatting as tabs, indents, and   |
+|                                   |fonts may not be preserved.        |
+|                                   |Because the text cannot be         |
+|                                   |formatted, adopting strategies     |
+|                                   |such as placing chapter titles in  |
+|                                   |capital letters can help keep a    |
+|                                   |table of contents organized.       |
+|                                   |Including page numbers is not      |
+|                                   |crucial.                           |
 +-----------------------------------+-----------------------------------+
-| Subjects                          | The key topics discussed in the   |
-|                                   | resource can be listed in the     |
-|                                   | Subjects element. Although the    |
-|                                   | IHSN Resource Template does not   |
-|                                   | include a controlled vocabulary   |
-|                                   | for this element, organizations   |
-|                                   | may opt to modify the template    |
-|                                   | and establish a set list of       |
-|                                   | subjects which all of their       |
-|                                   | projects should use when          |
-|                                   | documenting studies.              |
+| Subjects                          |The key topics discussed in the    |
+|                                   |resource can be listed in the      |
+|                                   |Subjects element. Although the     |
+|                                   |IHSN Resource Template does not    |
+|                                   |include a controlled vocabulary    |
+|                                   |for this element, organizations    |
+|                                   |may opt to modify the template     |
+|                                   |and establish a set list of        |
+|                                   |subjects which all of their        |
+|                                   |projects should use when           |
+|                                   |documenting studies.               |
 +-----------------------------------+-----------------------------------+
 
 .. _section-1:
