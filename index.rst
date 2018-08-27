@@ -2819,90 +2819,89 @@ provides detailed information on each variable.
 |                                   |   Toolkit to refresh the summary  |
 |                                   |   statistics.                     |
 +-----------------------------------+-----------------------------------+
-| Weights                           | The appropriate weight should be  |
-|                                   | attached to the file and selected |
-|                                   | in this element. The weight       |
-|                                   | should be well labelled.          |
+| Weights                           |The appropriate weight should be   |
+|                                   |attached to the file and selected  |
+|                                   |in this element. The weight        |
+|                                   |should be well labelled.           |
 +-----------------------------------+-----------------------------------+
-| Definition                        | This element provides a space to  |
-|                                   | describe the variable in detail.  |
-|                                   | Not all variables require         |
-|                                   | definition. The following         |
-|                                   | variables should always be        |
-|                                   | defined when available in a       |
-|                                   | questionnaire:                    |
+| Definition                        |This element provides a space to   |
+|                                   |describe the variable in detail.   |
+|                                   |Not all variables require          |
+|                                   |definition. The following          |
+|                                   |variables should always be         |
+|                                   |defined when available in a        |
+|                                   |questionnaire:                     |
 |                                   |                                   |
-|                                   | -  Household (attach this         |
-|                                   |       definition to the           |
-|                                   |       “household ID” variable     |
+|                                   |-  Household (attach this          |
+|                                   |   definition to the               |
+|                                   |   “household ID” variable         |
 |                                   |                                   |
-|                                   | -  Head of household (attach this |
-|                                   |       definition to the variable  |
-|                                   |       “relationship to the head”  |
+|                                   |-  Head of household (attach this  |
+|                                   |   definition to the variable      |
+|                                   |   “relationship to the head”      |
 |                                   |                                   |
-|                                   | -  Urban/rural                    |
+|                                   |-  Urban/rural                     |
 +-----------------------------------+-----------------------------------+
-| Universe                          | The universe at the variable      |
-|                                   | level reflects skip patterns      |
-|                                   | within-records in a               |
-|                                   | questionnaire. This information   |
-|                                   | can typically be copy/pasted from |
-|                                   | the survey questionnaire. Try to  |
-|                                   | be as specific as possible. This  |
-|                                   | information is very useful for    |
-|                                   | the analyst.                      |
+| Universe                          |The universe at the variable       |
+|                                   |level reflects skip patterns       |
+|                                   |within-records in a                |
+|                                   |questionnaire. This information    |
+|                                   |can typically be copy/pasted from  |
+|                                   |the survey questionnaire. Try to   |
+|                                   |be as specific as possible. This   |
+|                                   |information is very useful for     |
+|                                   |the analyst.                       |
 |                                   |                                   |
-|                                   | In many cases, a block of         |
-|                                   | variables will have the same      |
-|                                   | universe (for example, a block of |
-|                                   | variables on education can all    |
-|                                   | relate to the “Population aged 6  |
-|                                   | to 24 year). The Toolkit allows   |
-|                                   | you to select multiple variables  |
-|                                   | and enter the universe            |
-|                                   | information to all variables at   |
-|                                   | once.                             |
+|                                   |In many cases, a block of          |
+|                                   |variables will have the same       |
+|                                   |universe (for example, a block of  |
+|                                   |variables on education can all     |
+|                                   |relate to the “Population aged 6   |
+|                                   |to 24 year). The Toolkit allows    |
+|                                   |you to select multiple variables   |
+|                                   |and enter the universe             |
+|                                   |information to all variables at    |
+|                                   |once.                              |
 +-----------------------------------+-----------------------------------+
-| Source of information             | Enter information regarding who   |
-|                                   | provided the information          |
-|                                   | contained within the variable. In |
-|                                   | most cases, the source will be    |
-|                                   | “Head of household” or “Household |
-|                                   | member”. But it may also be       |
+| Source of information             |Enter information regarding who    |
+|                                   |provided the information           |
+|                                   |contained within the variable. In  |
+|                                   |most cases, the source will be     |
+|                                   |“Head of household” or “Household  |
+|                                   |member”. But it may also be:       |
 |                                   |                                   |
-|                                   | - GPS measure (for geographic     |
-|                                   | position)                         |
+|                                   |-  GPS measure (for geographic     |
+|                                   |   position)                       |
 |                                   |                                   |
-|                                   | - Interviewer’s visual            |
-|                                   | observation (for type of          |
-|                                   | dwelling)                         |
+|                                   |-  Interviewer’s visual            |
+|                                   |   observation (for type of        |
+|                                   |   dwelling)                       |
 |                                   |                                   |
-|                                   | - Best informant in community     |
+|                                   |-  Best informant in community     |
 |                                   |                                   |
-|                                   | - Etc.                            |
+|                                   |-  Etc.                            |
 +-----------------------------------+-----------------------------------+
-| Concepts                          | Greater description on the nature |
-|                                   | of the variable can be placed in  |
-|                                   | this element. For example this    |
-|                                   | element can provide a clearer     |
-|                                   | definition for certain variables  |
-|                                   | (i.e. a variable that provides    |
-|                                   | information on whether a person   |
-|                                   | is a household member). In the    |
-|                                   | case of household membership, a   |
-|                                   | conceptual definition can be      |
-|                                   | provided.                         |
+| Concepts                          |Greater description on the nature  |
+|                                   |of the variable can be placed in   |
+|                                   |this element. For example this     |
+|                                   |element can provide a clearer      |
+|                                   |definition for certain variables   |
+|                                   |(i.e. a variable that provides     |
+|                                   |information on whether a person    |
+|                                   |is a household member). In the     |
+|                                   |case of household membership, a    |
+|                                   |conceptual definition can be       |
+|                                   |provided.                          |
 |                                   |                                   |
-|                                   | Example:                          |
-|                                   |                                   |
-|                                   | A household member is defined as  |
-|                                   | any person who has been resident  |
-|                                   | in the household for six months   |
-|                                   | or more in a given year and takes |
-|                                   | meals together OR by default the  |
-|                                   | head of household, infants under  |
-|                                   | 6 months, newly wedded couples    |
-|                                   | etc.                              |
+|                                   |Example:                           |
+|                                   |  *A household member is defined as|
+|                                   |  any person who has been resident |
+|                                   |  in the household for six months  |
+|                                   |  or more in a given year and takes|
+|                                   |  meals together OR by default the |
+|                                   |  head of household, infants under |
+|                                   |  6 months, newly wedded couples   |
+|                                   |  etc.*                            |
 +-----------------------------------+-----------------------------------+
 | Pre-question text                 | The *pre-question texts* are the  |
 |                                   | instructions provided to the      |
