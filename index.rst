@@ -1780,149 +1780,149 @@ and methods, scope and coverage, etc.)
 |                                   |  cluster goes through the         |
 |                                   |  following steps:*                |
 |                                   |                                   |
-|                                   |  *1) Questionnaire reception*     |
+|                                   |1.  *Questionnaire reception*      |
 |                                   |                                   |
-|                                   |  *2) Office editing and coding*   |
+|                                   |2.  *Office editing and coding*    |
 |                                   |                                   |
-|                                   |  *3) Data entry*                  |
+|                                   |3.  *Data entry*                   |
 |                                   |                                   |
-|                                   |  *4) Structure and completeness   |
-|                                   |  checking*                        |
+|                                   |4.  *Structure and completeness    |
+|                                   |    checking*                      |
 |                                   |                                   |
-|                                   |  *5) Verification entry*          |
+|                                   |5.  *Verification entry*           |
 |                                   |                                   |
-|                                   |  *6) Comparison of verification   |
-|                                   |  data*                            |
+|                                   |6.  *Comparison of verification    |
+|                                   |    data*                          |
 |                                   |                                   |
-|                                   |  *7) Back up of raw data*         |
+|                                   |7.  *Back up of raw data*          |
 |                                   |                                   |
-|                                   |  *8) Secondary editing*           |
+|                                   |8.  *Secondary editing*            |
 |                                   |                                   |
-|                                   |  *9) Edited data back up*         |
+|                                   |9.  *Edited data back up*          |
 |                                   |                                   |
-|                                   |  *After all clusters are          |
-|                                   |  processed, all data is           |
-|                                   |  concatenated together and then   |
-|                                   |  the following steps are completed|
-|                                   |  for all data files:*             | 
+|                                   |*After all clusters are            |
+|                                   |processed, all data is             |
+|                                   |concatenated together and then     |
+|                                   |the following steps are completed  |
+|                                   |for all data files:*               | 
 |                                   |                                   |
-|                                   |  *10) Export to SPSS in 4 files   |
-|                                   |  (hh - household, hl - household  |
-|                                   |  members, wm-women, ch - children |
-|                                   |  under 5)*                        |
+|                                   |10.  *Export to SPSS in 4 files    |
+|                                   |     (hh - household, hl -         |
+|                                   |     household members, wm - women,|
+|                                   |     ch - children under 5)*       |
 |                                   |                                   |
-|                                   |  *11) Recoding of variables needed|
-|                                   |  for analysis*                    |
+|                                   |11.  *Recoding of variables needed |
+|                                   |     for analysis*                 |
 |                                   |                                   |
-|                                   |  *12) Adding of sample weights*   |
+|                                   |12.  *Adding of sample weights*    |
 |                                   |                                   |
-|                                   |  *13)  Calculation of wealth      |
-|                                   |  quintiles and merging into       |
-|                                   |  data*                            |
+|                                   |13.  *Calculation of wealth        |
+|                                   |     quintiles and merging into    |
+|                                   |     data*                         |
 |                                   |                                   |
-|                                   |  *14) Structural checking of SPSS |
-|                                   |  files*                           |
+|                                   |14.  *Structural checking of SPSS  |
+|                                   |     files*                        |
 |                                   |                                   |
-|                                   |  *15) Data quality tabulations*   |
+|                                   |15.  *Data quality tabulations*    |
 |                                   |                                   |
-|                                   |  *16) Production of analysis      |
-|                                   |  tabulations*                     |
+|                                   |16.  *Production of analysis       |
+|                                   |     tabulations*                  |
 |                                   |                                   |
-|                                   |  *Details of each of these steps  |
-|                                   |  can be found in the data         |
-|                                   |  processing documentation, data   |
-|                                   |  editing guidelines, data         |
-|                                   |  processing programs in CSPro and |
-|                                   |  SPSS, and tabulation guidelines.*|
+|                                   |*Details of each of these steps    |
+|                                   |can be found in the data           |
+|                                   |processing documentation, data     |
+|                                   |editing guidelines, data           |
+|                                   |processing programs in CSPro and   |
+|                                   |SPSS, and tabulation guidelines.*  |
 |                                   |                                   |
-|                                   |  *Data entry was conducted by 12  |
-|                                   |  data entry operators in tow      |
-|                                   |  shifts, supervised by 2 data     |
-|                                   |  entry supervisors, using a total |
-|                                   |  of 7 computers (6 data entry     |
-|                                   |  computers plus one supervisors’  |
-|                                   |  computer). All data entry was    |
-|                                   |  conducted at the GenCenStat head |
-|                                   |  office using manual data entry.  |
-|                                   |  For data entry, CSPro version    |
-|                                   |  2.6.007 was used with a highly   |
-|                                   |  structured data entry program,   |
-|                                   |  using system controlled approach |
-|                                   |  that controlled entry of each    |
-|                                   |  variable. All range checks and   |
-|                                   |  skips were controlled by the     |
-|                                   |  program and operators could not  |
-|                                   |  override these. A limited set of |
-|                                   |  consistency checks were also     |
-|                                   |  included in the data entry       |
-|                                   |  program. In addition, the        |
-|                                   |  calculation of anthropometric    |
-|                                   |  Z-scores was also included in the|
-|                                   |  data entry programs for use      |
-|                                   |  during analysis. Open-ended      |
-|                                   |  responses ("Other" answers) were |
-|                                   |  not entered or coded, except in  |
-|                                   |  rare circumstances where the     |
-|                                   |  response matched an existing code|
-|                                   |  in the questionnaire.*           |
+|                                   |*Data entry was conducted by 12    |
+|                                   |data entry operators in tow        |
+|                                   |shifts, supervised by 2 data       |
+|                                   |entry supervisors, using a total   |
+|                                   |of 7 computers (6 data entry       |
+|                                   |computers plus one supervisors’    |
+|                                   |computer). All data entry was      |
+|                                   |conducted at the GenCenStat head   |
+|                                   |office using manual data entry.    |
+|                                   |For data entry, CSPro version      |
+|                                   |2.6.007 was used with a highly     |
+|                                   |structured data entry program,     |
+|                                   |using system controlled approach   |
+|                                   |that controlled entry of each      |
+|                                   |variable. All range checks and     |
+|                                   |skips were controlled by the       |
+|                                   |program and operators could not    |
+|                                   |override these. A limited set of   |
+|                                   |consistency checks were also       |
+|                                   |included in the data entry         |
+|                                   |program. In addition, the          |
+|                                   |calculation of anthropometric      |
+|                                   |Z-scores was also included in the  |
+|                                   |data entry programs for use        |
+|                                   |during analysis. Open-ended        |
+|                                   |responses ("Other" answers) were   |
+|                                   |not entered or coded, except in    |
+|                                   |rare circumstances where the       |
+|                                   |response matched an existing code  |
+|                                   |in the questionnaire.*             |
 |                                   |                                   |
-|                                   |  *Structure and completeness      |
-|                                   |  checking ensured that all        |
-|                                   |  questionnaires for the cluster   |
-|                                   |  had been entered, were           |
-|                                   |  structurally sound, and that     |
-|                                   |  women's and children's           |
-|                                   |  questionnaires existed for each  |
-|                                   |  eligible woman and child.*       |
+|                                   |*Structure and completeness        |
+|                                   |checking ensured that all          |
+|                                   |questionnaires for the cluster     |
+|                                   |had been entered, were             |
+|                                   |structurally sound, and that       |
+|                                   |women's and children's             |
+|                                   |questionnaires existed for each    |
+|                                   |eligible woman and child.*         |
 |                                   |                                   |
-|                                   |  *100% verification of all        |
-|                                   |  variables was performed using    |
-|                                   |  independent verification, i.e.   |
-|                                   |  double entry of data, with       |
-|                                   |  separate comparison of data      |
-|                                   |  followed by modification of one  |
-|                                   |  or both datasets to correct      |
-|                                   |  keying errors by original        |
-|                                   |  operators who first keyed the    |
-|                                   |  files.*                          |
+|                                   |*100% verification of all          |
+|                                   |variables was performed using      |
+|                                   |independent verification, i.e.     |
+|                                   |double entry of data, with         |
+|                                   |separate comparison of data        |
+|                                   |followed by modification of one    |
+|                                   |or both datasets to correct        |
+|                                   |keying errors by original          |
+|                                   |operators who first keyed the      |
+|                                   |files.*                            |
 |                                   |                                   |
-|                                   |  *After completion of all         |
-|                                   |  processing in CSPro, all         |
-|                                   |  individual cluster files were    |
-|                                   |  backed up before concatenating   |
-|                                   |  data together using the CSPro    |
-|                                   |  file concatenate utility.*       |
+|                                   |*After completion of all           |
+|                                   |processing in CSPro, all           |
+|                                   |individual cluster files were      |
+|                                   |backed up before concatenating     |
+|                                   |data together using the CSPro      |
+|                                   |file concatenate utility.*         |
 |                                   |                                   |
-|                                   |  *For tabulation and analysis SPSS|
-|                                   |  versions 10.0 and 14.0 were used.|
-|                                   |  Version 10.0 was originally used |
-|                                   |  for all tabulation programs,     |
-|                                   |  except for child mortality. Later|
-|                                   |  version 14.0 was used for child  |
-|                                   |  mortality, data quality          |
-|                                   |  tabulations and other analysis   |
-|                                   |  activities.*                     |
+|                                   |*For tabulation and analysis SPSS  |
+|                                   |versions 10.0 and 14.0 were used.  |
+|                                   |Version 10.0 was originally used   |
+|                                   |for all tabulation programs,       |
+|                                   |except for child mortality. Later  |
+|                                   |version 14.0 was used for child    |
+|                                   |mortality, data quality            |
+|                                   |tabulations and other analysis     |
+|                                   |activities.*                       |
 |                                   |                                   |
-|                                   |  *After transferring all files to |
-|                                   |  SPSS, certain variables were     |
-|                                   |  recoded for use as background    |
-|                                   |  characteristics in the tabulation|
-|                                   |  of the data, including grouping  |
-|                                   |  age, education, geographic areas |
-|                                   |  as needed for analysis. In the   |
-|                                   |  process of recoding ages and     |
-|                                   |  dates some random imputation of  |
-|                                   |  dates (within calculated         |
-|                                   |  constraints) was performed to    |
-|                                   |  handle missing or "don't know"   |
-|                                   |  ages or dates. Additionally, a   |
-|                                   |  wealth (asset) index of household|
-|                                   |  members was calculated using     |
-|                                   |  principal components analysis,   |
-|                                   |  based on household assets, and   |
-|                                   |  both the score and quintiles were|
-|                                   |  included in the datasets for use |
-|                                   |  in tabulations.*                 |
+|                                   |*After transferring all files to   |
+|                                   |SPSS, certain variables were       |
+|                                   |recoded for use as background      |
+|                                   |characteristics in the tabulation  |
+|                                   |of the data, including grouping    |
+|                                   |age, education, geographic areas   |
+|                                   |as needed for analysis. In the     |
+|                                   |process of recoding ages and       |
+|                                   |dates some random imputation of    |
+|                                   |dates (within calculated           |
+|                                   |constraints) was performed to      |
+|                                   |handle missing or "don't know"     |
+|                                   |ages or dates. Additionally, a     |
+|                                   |wealth (asset) index of household  |
+|                                   |members was calculated using       |
+|                                   |principal components analysis,     |
+|                                   |based on household assets, and     |
+|                                   |both the score and quintiles were  |
+|                                   |included in the datasets for use   |
+|                                   |in tabulations.*                   |
 +-----------------------------------+-----------------------------------+
 | **Data Appraisal**                                                    |
 +-----------------------------------+-----------------------------------+
