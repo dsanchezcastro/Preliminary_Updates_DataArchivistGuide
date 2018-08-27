@@ -1924,105 +1924,102 @@ and methods, scope and coverage, etc.)
 |                                   |  included in the datasets for use |
 |                                   |  in tabulations.*                 |
 +-----------------------------------+-----------------------------------+
-
-+-----------------------------------+-----------------------------------+
-| **Data Appraisal**                |                                   |
+| **Data Appraisal**                                                    |
 +===================================+===================================+
-| Estimate of sampling error        | For sampling surveys, it is good  |
-|                                   | practice to calculate and publish |
-|                                   | sampling error. This field is     |
-|                                   | used to provide information on    |
-|                                   | these calculations. This          |
-|                                   | includes:                         |
+| Estimate of sampling error        |For sampling surveys, it is good   |
+|                                   |practice to calculate and publish  |
+|                                   |sampling error. This field is      |
+|                                   |used to provide information on     |
+|                                   |these calculations. This           |
+|                                   |includes:                          |
 |                                   |                                   |
-|                                   | -  A list of ratios/indicators    |
-|                                   |    for which sampling errors were |
-|                                   |    computed.                      |
+|                                   |-  A list of ratios/indicators     |
+|                                   |   for which sampling errors were  |
+|                                   |   computed.                       |
 |                                   |                                   |
-|                                   | -  Details regarding the software |
-|                                   |    used for computing the         |
-|                                   |    sampling error, and reference  |
-|                                   |    to the programs used (to be    |
-|                                   |    provided as external           |
-|                                   |    resources) as the program used |
-|                                   |    to perform the calculations.   |
+|                                   |-  Details regarding the software  |
+|                                   |   used for computing the          |
+|                                   |   sampling error, and reference   |
+|                                   |   to the programs used (to be     |
+|                                   |   provided as external            |
+|                                   |   resources) as the program used  |
+|                                   |   to perform the calculations.    |
 |                                   |                                   |
-|                                   | -  Reference to the reports or    |
-|                                   |    other document where the       |
-|                                   |    results can be found (to be    |
-|                                   |    provided as external           |
-|                                   |    resources).                    |
+|                                   |-  Reference to the reports or     |
+|                                   |   other document where the        |
+|                                   |   results can be found (to be     |
+|                                   |   provided as external            |
+|                                   |   resources).                     |
 |                                   |                                   |
-|                                   | Example:                          |
+|                                   |Example:                           |
+|                                   |  *Estimates from a sample survey  |
+|                                   |  are affected by two types of     |
+|                                   |  errors: 1) non-sampling errors   |
+|                                   |  and 2) sampling errors.          |
+|                                   |  Non-sampling errors are the      |
+|                                   |  results of mistakes made in the  |
+|                                   |  implementation of data collection|
+|                                   |  and data processing. Numerous    |
+|                                   |  efforts were made during         |
+|                                   |  implementation of the 2005-2006  |
+|                                   |  MICS to minimize this type of    |
+|                                   |  error, however, non-sampling     |
+|                                   |  errors are impossible to avoid   |
+|                                   |  and difficult to evaluate        |
+|                                   |  statistically.*                  |
 |                                   |                                   |
-|                                   | Estimates from a sample survey    |
-|                                   | are affected by two types of      |
-|                                   | errors: 1) non-sampling errors    |
-|                                   | and 2) sampling errors.           |
-|                                   | Non-sampling errors are the       |
-|                                   | results of mistakes made in the   |
-|                                   | implementation of data collection |
-|                                   | and data processing. Numerous     |
-|                                   | efforts were made during          |
-|                                   | implementation of the 2005-2006   |
-|                                   | MICS to minimize this type of     |
-|                                   | error, however, non-sampling      |
-|                                   | errors are impossible to avoid    |
-|                                   | and difficult to evaluate         |
-|                                   | statistically.                    |
+|                                   |  *If the sample of respondents had|
+|                                   |  been a simple random sample, it  |
+|                                   |  would have been possible to use  |
+|                                   |  straightforward formulae for     |
+|                                   |  calculating sampling errors.     |
+|                                   |  However, the 2005-2006 MICS      |
+|                                   |  sample is the result of a        |
+|                                   |  multi-stage stratified design,   |
+|                                   |  and consequently needs to use    |
+|                                   |  more complex formulae. The SPSS  |
+|                                   |  complex samples module has been  |
+|                                   |  used to calculate sampling errors|
+|                                   |  for the 2005-2006 MICS. This     |
+|                                   |  module uses the Taylor           |
+|                                   |  linearization method of variance |
+|                                   |  estimation for survey estimates  |
+|                                   |  that are means or proportions.   |
+|                                   |  This method is documented in the |
+|                                   |  SPSS file CSDescriptives.pdf     |
+|                                   |  found under the Help, Algorithms |
+|                                   |  options in SPSS.*                |
 |                                   |                                   |
-|                                   | If the sample of respondents had  |
-|                                   | been a simple random sample, it   |
-|                                   | would have been possible to use   |
-|                                   | straightforward formulae for      |
-|                                   | calculating sampling errors.      |
-|                                   | However, the 2005-2006 MICS       |
-|                                   | sample is the result of a         |
-|                                   | multi-stage stratified design,    |
-|                                   | and consequently needs to use     |
-|                                   | more complex formulae. The SPSS   |
-|                                   | complex samples module has been   |
-|                                   | used to calculate sampling errors |
-|                                   | for the 2005-2006 MICS. This      |
-|                                   | module uses the Taylor            |
-|                                   | linearization method of variance  |
-|                                   | estimation for survey estimates   |
-|                                   | that are means or proportions.    |
-|                                   | This method is documented in the  |
-|                                   | SPSS file CSDescriptives.pdf      |
-|                                   | found under the Help, Algorithms  |
-|                                   | options in SPSS.                  |
+|                                   |  *Sampling errors have been       |
+|                                   |  calculated for a select set of   |
+|                                   |  statistics (all of which are     |
+|                                   |  proportions due to the           |
+|                                   |  limitations of the Taylor        |
+|                                   |  linearization method) for the    |
+|                                   |  national sample, urban and rural |
+|                                   |  areas, and for each of the five  |
+|                                   |  regions. For each statistic, the |
+|                                   |  estimate, its standard error, the|
+|                                   |  coefficient of variation (or     |
+|                                   |  relative error -- the ratio      |
+|                                   |  between the standard error and   |
+|                                   |  the estimate), the design effect,|
+|                                   |  and the square root design effect|
+|                                   |  (DEFT -- the ratio between the   |
+|                                   |  standard error using the given   |
+|                                   |  sample design and the standard   |
+|                                   |  error that would result if a     |
+|                                   |  simple random sample had been    |
+|                                   |  used), as well as the 95 percent |
+|                                   |  confidence intervals (+/-2       |
+|                                   |  standard errors).*               |
 |                                   |                                   |
-|                                   |  Sampling errors have been        |
-|                                   | calculated for a select set of    |
-|                                   | statistics (all of which are      |
-|                                   | proportions due to the            |
-|                                   | limitations of the Taylor         |
-|                                   | linearization method) for the     |
-|                                   | national sample, urban and rural  |
-|                                   | areas, and for each of the five   |
-|                                   | regions. For each statistic, the  |
-|                                   | estimate, its standard error, the |
-|                                   | coefficient of variation (or      |
-|                                   | relative error -- the ratio       |
-|                                   | between the standard error and    |
-|                                   | the estimate), the design effect, |
-|                                   | and the square root design effect |
-|                                   | (DEFT -- the ratio between the    |
-|                                   | standard error using the given    |
-|                                   | sample design and the standard    |
-|                                   | error that would result if a      |
-|                                   | simple random sample had been     |
-|                                   | used), as well as the 95 percent  |
-|                                   | confidence intervals (+/-2        |
-|                                   | standard errors).                 |
-|                                   |                                   |
-|                                   | Details of the sampling errors    |
-|                                   | are presented in the sampling     |
-|                                   | errors appendix to the report and |
-|                                   | in the sampling errors table      |
-|                                   | presented in the external         |
-|                                   | resources.                        |
+|                                   |  *Details of the sampling errors  |
+|                                   |  are presented in the sampling    |
+|                                   |  errors appendix to the report and|
+|                                   |  in the sampling errors table     |
+|                                   |  presented in the external        |
+|                                   |  resources.*                      |
 +-----------------------------------+-----------------------------------+
 | Other forms data appraisal        | This section can be used to       |
 |                                   | report any other action taken to  |
