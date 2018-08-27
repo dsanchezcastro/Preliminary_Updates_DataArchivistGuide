@@ -2689,135 +2689,135 @@ provides detailed information on each variable.
 |                                   |   of the person, the amount of    |
 |                                   |   income or expenditure, etc.     |
 +-----------------------------------+-----------------------------------+
-| Time variable                     | This is a check-box used to tag   |
-|                                   | and identify variables used to    |
-|                                   | define time.                      |
+| Time variable                     |This is a check-box used to tag    |
+|                                   |and identify variables used to     |
+|                                   |define time.                       |
 +-----------------------------------+-----------------------------------+
-| Weight variable                   | This is a check box that is used  |
-|                                   | to tag the weight variable. It is |
-|                                   | a good practice to include the    |
-|                                   | weight variable with each data    |
-|                                   | file that is being archived. If   |
-|                                   | it is included, the check box     |
-|                                   | should be ticked.                 |
+| Weight variable                   |This is a check box that is used   |
+|                                   |to tag the weight variable. It is  |
+|                                   |a good practice to include the     |
+|                                   |weight variable with each data     |
+|                                   |file that is being archived. If    |
+|                                   |it is included, the check box      |
+|                                   |should be ticked.                  |
 +-----------------------------------+-----------------------------------+
-| Min                               | Allows modifying the minimum      |
-|                                   | value of a variable. For each     |
-| Max                               | variable where it makes sense,    |
-|                                   | you should check that the Min and |
-|                                   | Max values are correct. Remember: |
-|                                   | if a specific value is used for   |
-|                                   | “Missing”, this should not be     |
-|                                   | included in the Min-Max range.    |
-|                                   | For example, if codes 1 and 2 are |
-|                                   | used for Male and Female, and 9   |
-|                                   | for unknown sex, then the Min     |
-|                                   | will be 1 and the Max will be 2.  |
-|                                   | The code 9 must be listed in the  |
-|                                   | “Missing” codes (see below).      |
+| Min                               |Allows modifying the minimum       |
+|                                   |value of a variable. For each      |
+| Max                               |variable where it makes sense,     |
+|                                   |you should check that the Min and  |
+|                                   |Max values are correct. Remember:  |
+|                                   |if a specific value is used for    |
+|                                   |“Missing”, this should not be      |
+|                                   |included in the Min-Max range.     |
+|                                   |For example, if codes 1 and 2 are  |
+|                                   |used for Male and Female, and 9    |
+|                                   |for unknown sex, then the Min      |
+|                                   |will be 1 and the Max will be 2.   |
+|                                   |The code 9 must be listed in the   |
+|                                   |“Missing” codes (see below).       |
 +-----------------------------------+-----------------------------------+
-| Decimals                          | Defines the number of decimal     |
-|                                   | places of a numeric variable      |
-|                                   | type.                             |
+| Decimals                          |Defines the number of decimal      |
+|                                   |places of a numeric variable       |
+|                                   |type.                              |
 +-----------------------------------+-----------------------------------+
-| Implicit decimals                 | This check box is selected only   |
-|                                   | when a fixed ASCII-type file is   |
-|                                   | imported and the data file        |
-|                                   | includes a decimal character. As  |
-|                                   | the decimal character also        |
-|                                   | requires a space in the variable  |
-|                                   | length assignation, it is         |
-|                                   | important to check this box in    |
-|                                   | order to assure proper alignment  |
-|                                   | of the data.                      |
+| Implicit decimals                 |This check box is selected only    |
+|                                   |when a fixed ASCII-type file is    |
+|                                   |imported and the data file         |
+|                                   |includes a decimal character. As   |
+|                                   |the decimal character also         |
+|                                   |requires a space in the variable   |
+|                                   |length assignation, it is          |
+|                                   |important to check this box in     |
+|                                   |order to assure proper alignment   |
+|                                   |of the data.                       |
 +-----------------------------------+-----------------------------------+
-| Missing data                      | Missing values are those values   |
-|                                   | that are blank in a data file but |
-|                                   | should have been responses and    |
-|                                   | are within the path or universe   |
-|                                   | of the questionnaire. Missing     |
-|                                   | values should always be coded.    |
-|                                   | Missing values should be          |
-|                                   | differentiated from “not          |
-|                                   | applicable” and zero (0) values.  |
+| Missing data                      |Missing values are those values    |
+|                                   |that are blank in a data file but  |
+|                                   |should have been responses and     |
+|                                   |are within the path or universe    |
+|                                   |of the questionnaire. Missing      |
+|                                   |values should always be coded.     |
+|                                   |Missing values should be           |
+|                                   |differentiated from “not           |
+|                                   |applicable” and zero (0) values.   |
 +-----------------------------------+-----------------------------------+
-| Statistics Options                | Various options exist for         |
-|                                   | displaying and presenting summary |
-|                                   | information of the variable to    |
-|                                   | the user or the person browsing   |
-|                                   | the output. Summary statistics    |
-|                                   | are saved in the DDI document and |
-|                                   | become part of the metadata. It   |
-|                                   | is therefore important to select  |
-|                                   | the appropriate ones.             |
+| Statistics Options                |Various options exist for          |
+|                                   |displaying and presenting summary  |
+|                                   |information of the variable to     |
+|                                   |the user or the person browsing    |
+|                                   |the output. Summary statistics     |
+|                                   |are saved in the DDI document and  |
+|                                   |become part of the metadata. It    |
+|                                   |is therefore important to select   |
+|                                   |the appropriate ones.              |
 |                                   |                                   |
-|                                   | -  For nominal variables you want |
-|                                   |    to be sure that the categories |
-|                                   |    are well defined and that some |
-|                                   |    of the summary statistics are  |
-|                                   |    not displayed (such as means   |
-|                                   |    and standard deviations.       |
+|                                   |-  For nominal variables you want  |
+|                                   |   to be sure that the categories  |
+|                                   |   are well defined and that some  |
+|                                   |   of the summary statistics are   |
+|                                   |   not displayed (such as means    |
+|                                   |   and standard deviations.        |
 |                                   |                                   |
-|                                   | -  For ordinal values, you want   |
-|                                   |    to be sure that the categories |
-|                                   |    are displayed if they are      |
-|                                   |    required. Not all ordinal      |
-|                                   |    values will require a          |
-|                                   |    category. In some cases you    |
-|                                   |    may want to include some       |
-|                                   |    summary statistics such as     |
-|                                   |    mean and standard deviation.   |
+|                                   |-  For ordinal values, you want    |
+|                                   |   to be sure that the categories  |
+|                                   |   are displayed if they are       |
+|                                   |   required. Not all ordinal       |
+|                                   |   values will require a           |
+|                                   |   category. In some cases you     |
+|                                   |   may want to include some        |
+|                                   |   summary statistics such as      |
+|                                   |   mean and standard deviation.    |
 |                                   |                                   |
-|                                   | -  For scale values, you do not   |
-|                                   |    want to define categories and  |
-|                                   |    you may want to include some   |
-|                                   |    summary statistics such as     |
-|                                   |    mean and standard deviation.   |
+|                                   |-  For scale values, you do not    |
+|                                   |   want to define categories and   |
+|                                   |   you may want to include some    |
+|                                   |   summary statistics such as      |
+|                                   |   mean and standard deviation.    |
 |                                   |                                   |
-|                                   | Make sure you do not include      |
-|                                   | “Frequencies” for variables such  |
-|                                   | as the household identification   |
-|                                   | number or enumeration area. This  |
-|                                   | would produce a useless frequency |
-|                                   | table, that would considerably    |
-|                                   | increase the size of your DDI     |
-|                                   | file (in general, a very large    |
-|                                   | DDI file–8 to 10Mb or more–       |
-|                                   | indicates such a problem).        |
+|                                   |Make sure you do not include       |
+|                                   |“Frequencies” for variables such   |
+|                                   |as the household identification    |
+|                                   |number or enumeration area. This   |
+|                                   |would produce a useless frequency  |
+|                                   |table, that would considerably     |
+|                                   |increase the size of your DDI      |
+|                                   |file (in general, a very large     |
+|                                   |DDI file–8 to 10Mb or more–        |
+|                                   |indicates such a problem).         |
 |                                   |                                   |
-|                                   | Make sure also that you do not    |
-|                                   | include meaningless summary       |
-|                                   | statistics, such as the mean or   |
-|                                   | standard deviation calculated on  |
-|                                   | the codes used for variable SEX.  |
+|                                   |Make sure also that you do not     |
+|                                   |include meaningless summary        |
+|                                   |statistics, such as the mean or    |
+|                                   |standard deviation calculated on   |
+|                                   |the codes used for variable SEX.   |
 |                                   |                                   |
-|                                   | Notes:                            |
+|                                   |Notes:                             |
 |                                   |                                   |
-|                                   | -  Summary statistics such as the |
-|                                   |    mean or standard deviation are |
-|                                   |    calculated using all valid     |
-|                                   |    values. If special codes are   |
-|                                   |    used to indicate missing       |
-|                                   |    values, make sure they are     |
-|                                   |    declared in the “Missing”      |
-|                                   |    section. If not, they will be  |
-|                                   |    included in the calculations.  |
-|                                   |    For example, if you use code   |
-|                                   |    99999 for indicating missing   |
-|                                   |    values in a variable on        |
-|                                   |    household expenditure, code    |
-|                                   |    99999 must be listed in the    |
-|                                   |    missing section as follows:    |
+|                                   |-  Summary statistics such as the  |
+|                                   |   mean or standard deviation are  |
+|                                   |   calculated using all valid      |
+|                                   |   values. If special codes are    |
+|                                   |   used to indicate missing        |
+|                                   |   values, make sure they are      |
+|                                   |   declared in the “Missing”       |
+|                                   |   section. If not, they will be   |
+|                                   |   included in the calculations.   |
+|                                   |   For example, if you use code    |
+|                                   |   99999 for indicating missing    |
+|                                   |   values in a variable on         |
+|                                   |   household expenditure, code     |
+|                                   |   99999 must be listed in the     |
+|                                   |   missing section as follows:     |
 |                                   |                                   |
-|                                   | |image15|                         |
+|                                   |.. image:: media/image14.png       |
 |                                   |                                   |
-|                                   | -  If you modify information such |
-|                                   |    as the categories or missing   |
-|                                   |    values, you must use the       |
-|                                   |    “Documentation > Update        |
-|                                   |    Statistics” command in the     |
-|                                   |    Toolkit to refresh the summary |
-|                                   |    statistics.                    |
+|                                   |-  If you modify information such  |
+|                                   |   as the categories or missing    |
+|                                   |   values, you must use the        |
+|                                   |   “Documentation > Update         |
+|                                   |   Statistics” command in the      |
+|                                   |   Toolkit to refresh the summary  |
+|                                   |   statistics.                     |
 +-----------------------------------+-----------------------------------+
 | Weights                           | The appropriate weight should be  |
 |                                   | attached to the file and selected |
