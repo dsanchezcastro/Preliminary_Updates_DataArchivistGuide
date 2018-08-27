@@ -3289,8 +3289,8 @@ standard (which complements the DDI standard).
 
 .. _section-1:
 
-Creating variable groups
-========================
+6. Creating variable groups
+===========================
 
 Variable groups are optional, but will help organize the data for the
 user into specific subject of use categories. This will be particularly
@@ -3320,40 +3320,40 @@ Label, Text, Definition, Universe, and Notes. These elements are
 optional and will in most cases be left empty.
 
 +-----------------------------------+-----------------------------------+
-| Type                              | This is a controlled vocabulary   |
-|                                   | field. It best identifies the     |
-|                                   | manner the variables are grouped  |
-|                                   | together. This field is optional. |
+| Type                              |This is a controlled vocabulary    |
+|                                   |field. It best identifies the      |
+|                                   |manner the variables are grouped   |
+|                                   |together. This field is optional.  |
 +-----------------------------------+-----------------------------------+
-| Label                             | The label used to identify the    |
-|                                   | group should be clear and relate  |
-|                                   | to the type chosen. If these are  |
-|                                   | grouped by subject, then the      |
-|                                   | subject should be clearly stated  |
-|                                   | etc.                              |
+| Label                             |The label used to identify the     |
+|                                   |group should be clear and relate   |
+|                                   |to the type chosen. If these are   |
+|                                   |grouped by subject, then the       |
+|                                   |subject should be clearly stated   |
+|                                   |etc.                               |
 +-----------------------------------+-----------------------------------+
-| Text                              | Include additional text to        |
-|                                   | clarify the reason or purpose for |
-|                                   | grouping the variables. This      |
-|                                   | field is optional.                |
+| Text                              |Include additional text to         |
+|                                   |clarify the reason or purpose for  |
+|                                   |grouping the variables. This       |
+|                                   |field is optional.                 |
 +-----------------------------------+-----------------------------------+
-| Definition                        | This optional field is used to    |
-|                                   | define the variable group.        |
+| Definition                        |This optional field is used to     |
+|                                   |define the variable group.         |
 +-----------------------------------+-----------------------------------+
-| Universe                          | This optional field defines the   |
-|                                   | universe relevant to the selected |
-|                                   | grouped variables. The variables  |
-|                                   | for example can be grouped as     |
-|                                   | “Fertility Data” and the universe |
-|                                   | restricted to women between the   |
-|                                   | ages of 15-49.                    |
+| Universe                          |This optional field defines the    |
+|                                   |universe relevant to the selected  |
+|                                   |grouped variables. The variables   |
+|                                   |for example can be grouped as      |
+|                                   |“Fertility Data” and the universe  |
+|                                   |restricted to women between the    |
+|                                   |ages of 15-49.                     |
 +-----------------------------------+-----------------------------------+
-| Notes                             | Additional space for further      |
-|                                   | optional explanatory notes.       |
+| Notes                             |Additional space for further       |
+|                                   |optional explanatory notes.        |
 +-----------------------------------+-----------------------------------+
 
-Running validations and diagnostics
-===================================
+7. Running validations and diagnostics
+======================================
 
 The Microdata Management Toolkit includes a useful series of diagnostic
 and validation modules (see the drop down menu *Tools*): these range
@@ -3389,8 +3389,8 @@ with a large number of variables should not produce a file larger than
 summary statistics (for example, frequencies are produced for a variable
 like the household ID in a sample household file).
 
-Generating the survey documentation in PDF
-==========================================
+8. Generating the survey documentation in PDF
+=============================================
 
 The Microdata Management Toolkit includes a useful tool for producing a
 PDF document summarizing all metadata entered in the Toolkit (see *Tools
@@ -3401,6 +3401,16 @@ or the metadata make sure you re-run the PDF generator.
 
 This report should be generated, saved and attached as an *External
 Resource*.
+
+!
+=
++--------------------------------------------------------------------+
+|  The PDF report will include a list of all external resources      |
+|  related to the study. This list should include this PDF report    |
+|  itself. **Before** you generate it, make sure you create one entry|
+|  in the External Resources for documenting this report. Immediately|
+|  after you generate the PDF report, import it in the Toolkit.      |
++--------------------------------------------------------------------+
 
 One thing to keep in mind is that in a survey with a large number of
 variables may produce a document that is very long. If the report is in
