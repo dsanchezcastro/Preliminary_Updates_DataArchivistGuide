@@ -2181,81 +2181,81 @@ and methods, scope and coverage, etc.)
 |                                   |a more comprehensive data          |
 |                                   |agreement(see Access condition).*  |
 +-----------------------------------+-----------------------------------+
-| Access conditions                 | Each dataset should have an       |
-|                                   | “Access policy” attached to it.   |
-|                                   | The IHSN recommends three levels  |
-|                                   | of accessibility:                 |
+| Access conditions                 |Each dataset should have an        |
+|                                   |“Access policy” attached to it.    |
+|                                   |The IHSN recommends three levels   |
+|                                   |of accessibility:                  |
 |                                   |                                   |
-|                                   | -  Public use files, accessible   |
-|                                   |    to all                         |
+|                                   |-  Public use files, accessible    |
+|                                   |   to all                          |
 |                                   |                                   |
-|                                   | -  Licensed datasets, accessible  |
-|                                   |    under conditions               |
+|                                   |-  Licensed datasets, accessible   |
+|                                   |   under conditions                |
 |                                   |                                   |
-|                                   | -  Datasets only accessible in a  |
-|                                   |    data enclave, for the most     |
-|                                   |    sensitive and confidential     |
-|                                   |    data.                          |
+|                                   |-  Datasets only accessible in a   |
+|                                   |   data enclave, for the most      |
+|                                   |   sensitive and confidential      |
+|                                   |   data.                           |
 |                                   |                                   |
-|                                   | The IHSN has formulated standard, |
-|                                   | generic policies and access forms |
-|                                   | for each one of these three       |
-|                                   | levels (which each country can    |
-|                                   | customize to its specific needs). |
-|                                   | One of the three policies may be  |
-|                                   | copy/pasted in this field once it |
-|                                   | has been edited as needed and     |
-|                                   | approved by the appropriate       |
-|                                   | authority. Before you fill this   |
-|                                   | field, a decision has to be made  |
-|                                   | by the management of the data     |
-|                                   | depositor agency. Avoid writing a |
-|                                   | specific statement for each       |
-|                                   | dataset.                          |
+|                                   |The IHSN has formulated standard,  |
+|                                   |generic policies and access forms  |
+|                                   |for each one of these three        |
+|                                   |levels (which each country can     |
+|                                   |customize to its specific needs).  |
+|                                   |One of the three policies may be   |
+|                                   |copy/pasted in this field once it  |
+|                                   |has been edited as needed and      |
+|                                   |approved by the appropriate        |
+|                                   |authority. Before you fill this    |
+|                                   |field, a decision has to be made   |
+|                                   |by the management of the data      |
+|                                   |depositor agency. Avoid writing a  |
+|                                   |specific statement for each        |
+|                                   |dataset.                           |
 |                                   |                                   |
-|                                   | If the access policy is subject   |
-|                                   | to regular changes, you should    |
-|                                   | enter here a URL where the user   |
-|                                   | will find detailed information on |
-|                                   | access policy which applies to    |
-|                                   | this specific dataset. If the     |
-|                                   | datasets are sold, pricing        |
-|                                   | information should also be        |
-|                                   | provided on a website instead of  |
-|                                   | being entered here.               |
+|                                   |If the access policy is subject    |
+|                                   |to regular changes, you should     |
+|                                   |enter here a URL where the user    |
+|                                   |will find detailed information on  |
+|                                   |access policy which applies to     |
+|                                   |this specific dataset. If the      |
+|                                   |datasets are sold, pricing         |
+|                                   |information should also be         |
+|                                   |provided on a website instead of   |
+|                                   |being entered here.                |
 |                                   |                                   |
-|                                   | If the access policy is not       |
-|                                   | subject to regular changes, you   |
-|                                   | may enter more detailed           |
-|                                   | information here. For a public    |
-|                                   | use file for example, you could   |
-|                                   | enter information like:           |
+|                                   |If the access policy is not        |
+|                                   |subject to regular changes, you    |
+|                                   |may enter more detailed            |
+|                                   |information here. For a public     |
+|                                   |use file for example, you could    |
+|                                   |enter information like:            |
 |                                   |                                   |
-|                                   | The dataset has been anonymized   |
-|                                   | and is available as a Public Use  |
-|                                   | Dataset. It is accessible to all  |
-|                                   | for statistical and research      |
-|                                   | purposes only, under the          |
-|                                   | following terms and conditions:   |
+|                                   |*The dataset has been anonymized   |
+|                                   |and is available as a Public Use   |
+|                                   |Dataset. It is accessible to all   |
+|                                   |for statistical and research       |
+|                                   |purposes only, under the           |
+|                                   |following terms and conditions:*   |
 |                                   |                                   |
-|                                   | 1. The data and other materials   |
+|                                   |1.  *The data and other materials  |
 |                                   |    will not be redistributed or   |
 |                                   |    sold to other individuals,     |
 |                                   |    institutions, or organizations |
 |                                   |    without the written agreement  |
 |                                   |    of the [National Data          |
-|                                   |    Archive].                      |
+|                                   |    Archive].*                     |
 |                                   |                                   |
-|                                   | 2. The data will be used for      |
+|                                   |2.  *The data will be used for     |
 |                                   |    statistical and scientific     |
 |                                   |    research purposes only. They   |
 |                                   |    will be used solely for        |
 |                                   |    reporting of aggregated        |
 |                                   |    information, and not for       |
 |                                   |    investigation of specific      |
-|                                   |    individuals or organizations.  |
+|                                   |    individuals or organizations.* |
 |                                   |                                   |
-|                                   | 3. No attempt will be made to     |
+|                                   |3.  *No attempt will be made to    |
 |                                   |    re-identify respondents, and   |
 |                                   |    no use will be made of the     |
 |                                   |    identity of any person or      |
@@ -2263,18 +2263,18 @@ and methods, scope and coverage, etc.)
 |                                   |    inadvertently. Any such        |
 |                                   |    discovery would immediately be |
 |                                   |    reported to the [National Data |
-|                                   |    Archive].                      |
+|                                   |    Archive].*                     |
 |                                   |                                   |
-|                                   | 4. No attempt will be made to     |
+|                                   |4.  *No attempt will be made to    |
 |                                   |    produce links among datasets   |
 |                                   |    provided by the [National Data |
 |                                   |    Archive], or among data from   |
 |                                   |    the [National Data Archive]    |
 |                                   |    and other datasets that could  |
 |                                   |    identify individuals or        |
-|                                   |    organizations.                 |
+|                                   |    organizations.*                |
 |                                   |                                   |
-|                                   | 5. Any books, articles,           |
+|                                   |5.  *Any books, articles,          |
 |                                   |    conference papers, theses,     |
 |                                   |    dissertations, reports, or     |
 |                                   |    other publications that employ |
@@ -2283,22 +2283,22 @@ and methods, scope and coverage, etc.)
 |                                   |    cite the source of data in     |
 |                                   |    accordance with the Citation   |
 |                                   |    Requirement provided with each |
-|                                   |    dataset.                       |
+|                                   |    dataset.*                      |
 |                                   |                                   |
-|                                   | 6. An electronic copy of all      |
+|                                   |6.  *An electronic copy of all     |
 |                                   |    reports and publications based |
 |                                   |    on the requested data will be  |
 |                                   |    sent to the [National Data     |
-|                                   |    Archive].                      |
+|                                   |    Archive].*                     |
 |                                   |                                   |
-|                                   | 7.  The original collector of the |
+|                                   |7.  *The original collector of the |
 |                                   |    data, the [National Data       |
 |                                   |    Archive], and the relevant     |
 |                                   |    funding agencies bear no       |
 |                                   |    responsibility for use of the  |
 |                                   |    data or for interpretations or |
 |                                   |    inferences based upon such     |
-|                                   |    uses.                          |
+|                                   |    uses.*                         |
 +-----------------------------------+-----------------------------------+
 | Citation requirements             | Citation requirement is the way   |
 |                                   | that the dataset should be        |
