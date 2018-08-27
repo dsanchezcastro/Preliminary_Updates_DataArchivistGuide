@@ -2021,98 +2021,97 @@ and methods, scope and coverage, etc.)
 |                                   |  presented in the external        |
 |                                   |  resources.*                      |
 +-----------------------------------+-----------------------------------+
-| Other forms data appraisal        | This section can be used to       |
-|                                   | report any other action taken to  |
-|                                   | assess the reliability of the     |
-|                                   | data, or any observations         |
-|                                   | regarding data quality. This item |
-|                                   | can include:                      |
+| Other forms data appraisal        |This section can be used to        |
+|                                   |report any other action taken to   |
+|                                   |assess the reliability of the      |
+|                                   |data, or any observations          |
+|                                   |regarding data quality. This item  |
+|                                   |can include:                       |
 |                                   |                                   |
-|                                   | -  For a population census,       |
-|                                   |    information on the post        |
-|                                   |    enumeration survey (a report   |
-|                                   |    should be provided in external |
-|                                   |    resources and mentioned here). |
+|                                   |-  For a population census,        |
+|                                   |   information on the post         |
+|                                   |   enumeration survey (a report    |
+|                                   |   should be provided in external  |
+|                                   |   resources and mentioned here).  |
 |                                   |                                   |
-|                                   | -  For any survey/census, a       |
-|                                   |    comparison with data from      |
-|                                   |    another source.                |
+|                                   |-  For any survey/census, a        |
+|                                   |   comparison with data from       |
+|                                   |   another source.                 |
 |                                   |                                   |
-|                                   | -  Etc.                           |
+|                                   |-  Etc.                            |
 |                                   |                                   |
-|                                   | Example:                          |
+|                                   |Example:                           |
+|                                   |  *A series of data quality tables |
+|                                   |  and graphs are available to      |
+|                                   |  review the quality of the data   |
+|                                   |  and include the following:*      |
 |                                   |                                   |
-|                                   | A series of data quality tables   |
-|                                   | and graphs are available to       |
-|                                   | review the quality of the data    |
-|                                   | and include the following:        |
+|                                   |-  *Age distribution of the        |
+|                                   |   household population*           |
 |                                   |                                   |
-|                                   | -  Age distribution of the        |
-|                                   |    household population           |
+|                                   |-  *Age distribution of eligible   |
+|                                   |   women and interviewed women*    |
 |                                   |                                   |
-|                                   | -  Age distribution of eligible   |
-|                                   |    women and interviewed women    |
+|                                   |-  *Age distribution of eligible   |
+|                                   |   children and children for whom  |
+|                                   |   the mother or caretaker was     |
+|                                   |   interviewed*                    |
 |                                   |                                   |
-|                                   | -  Age distribution of eligible   |
-|                                   |    children and children for whom |
-|                                   |    the mother or caretaker was    |
-|                                   |    interviewed                    |
+|                                   |-  *Age distribution of children   |
+|                                   |   under age 5 by 3 month groups*  |
 |                                   |                                   |
-|                                   | -  Age distribution of children   |
-|                                   |    under age 5 by 3 month groups  |
+|                                   |-  *Age and period ratios at       |
+|                                   |   boundaries of eligibility*      |
 |                                   |                                   |
-|                                   | -  Age and period ratios at       |
-|                                   |    boundaries of eligibility      |
+|                                   |-  *Percent of observations with   |
+|                                   |   missing information on          |
+|                                   |   selected variables*             |
 |                                   |                                   |
-|                                   | -  Percent of observations with   |
-|                                   |    missing information on         |
-|                                   |    selected variables             |
+|                                   |-  *Presence of mother in the      |
+|                                   |   household and person            |
+|                                   |   interviewed for the under 5     |
+|                                   |   questionnaire*                  |
 |                                   |                                   |
-|                                   | -  Presence of mother in the      |
-|                                   |    household and person           |
-|                                   |    interviewed for the under 5    |
-|                                   |    questionnaire                  |
+|                                   |-  *School attendance by single    |
+|                                   |   year age*                       |
 |                                   |                                   |
-|                                   | -  School attendance by single    |
-|                                   |    year age                       |
+|                                   |-  *Sex ratio at birth among       |
+|                                   |   children ever born, surviving   |
+|                                   |   and dead by age of respondent*  |
 |                                   |                                   |
-|                                   | -  Sex ratio at birth among       |
-|                                   |    children ever born, surviving  |
-|                                   |    and dead by age of respondent  |
+|                                   |-  *Distribution of women by time  |
+|                                   |   since last birth*               |
 |                                   |                                   |
-|                                   | -  Distribution of women by time  |
-|                                   |    since last birth               |
+|                                   |-  *Scatter plot of weight by      |
+|                                   |   height, weight by age and       |
+|                                   |   height by age*                  |
 |                                   |                                   |
-|                                   | -  Scatter plot of weight by      |
-|                                   |    height, weight by age and      |
-|                                   |    height by age                  |
+|                                   |-  *Graph of male and female       |
+|                                   |   population by single years of   |
+|                                   |   age*                            |
 |                                   |                                   |
-|                                   | -  Graph of male and female       |
-|                                   |    population by single years of  |
-|                                   |    age                            |
+|                                   |-  *Population pyramid*            |
 |                                   |                                   |
-|                                   | -  Population pyramid             |
+|                                   |*The results of each of these      |
+|                                   |data quality tables are shown in   |
+|                                   |the appendix of the final report   |
+|                                   |and are also given in the          |
+|                                   |external resources section.*       |
 |                                   |                                   |
-|                                   | The results of each of these      |
-|                                   | data quality tables are shown in  |
-|                                   | the appendix of the final report  |
-|                                   | and are also given in the         |
-|                                   | external resources section.       |
-|                                   |                                   |
-|                                   | The general rule for              |
-|                                   | presentation of missing data in   |
-|                                   | the final report tabulations is   |
-|                                   | that a column is presented for    |
-|                                   | missing data if the percentage of |
-|                                   | cases with missing data is 1% or  |
-|                                   | more. Cases with missing data on  |
-|                                   | the background characteristics    |
-|                                   | (e.g. education) are included in  |
-|                                   | the tables, but the missing data  |
-|                                   | rows are suppressed and noted at  |
-|                                   | the bottom of the tables in the   |
-|                                   | report (not in the SPSS output,   |
-|                                   | however).                         |
+|                                   |*The general rule for              |
+|                                   |presentation of missing data in    |
+|                                   |the final report tabulations is    |
+|                                   |that a column is presented for     |
+|                                   |missing data if the percentage of  |
+|                                   |cases with missing data is 1% or   |
+|                                   |more. Cases with missing data on   |
+|                                   |the background characteristics     |
+|                                   |(e.g. education) are included in   |
+|                                   |the tables, but the missing data   |
+|                                   |rows are suppressed and noted at   |
+|                                   |the bottom of the tables in the    |
+|                                   |report (not in the SPSS output,    |
+|                                   |however).*                         |
 +-----------------------------------+-----------------------------------+
 | **Data Access**                   |                                   |
 +-----------------------------------+-----------------------------------+
