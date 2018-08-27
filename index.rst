@@ -2113,58 +2113,58 @@ and methods, scope and coverage, etc.)
 |                                   |report (not in the SPSS output,    |
 |                                   |however).*                         |
 +-----------------------------------+-----------------------------------+
-| **Data Access**                   |                                   |
+| **Data Access**                                                       |
 +-----------------------------------+-----------------------------------+
-| Access authority                  | This section is composed of       |
-|                                   | various sections:                 |
-|                                   | Name-Affiliation-email-URI. This  |
-|                                   | information provides the contact  |
-|                                   | person or entity to gain          |
-|                                   | authority to access the data. It  |
-|                                   | is advisable to use a generic     |
-|                                   | email contact such as             |
-|                                   | data@popstatsoffice.org whenever  |
-|                                   | possible to avoid tying access to |
-|                                   | a particular individual whose     |
-|                                   | functions may change over time.   |
+| Access authority                  |This section is composed of        |
+|                                   |various sections:                  |
+|                                   |Name-Affiliation-email-URI. This   |
+|                                   |information provides the contact   |
+|                                   |person or entity to gain           |
+|                                   |authority to access the data. It   |
+|                                   |is advisable to use a generic      |
+|                                   |email contact such as              |
+|                                   |data@popstatsoffice.org whenever   |
+|                                   |possible to avoid tying access to  |
+|                                   |a particular individual whose      |
+|                                   |functions may change over time.    |
 +-----------------------------------+-----------------------------------+
-| Confidentiality                   | If the dataset is not anonymized, |
-|                                   | we may indicate here what         |
-|                                   | Affidavit of Confidentiality must |
-|                                   | be signed before the data can be  |
-|                                   | accessed. Another option is to    |
-|                                   | include this information in the   |
-|                                   | next element (Access conditions). |
-|                                   | If there is no confidentiality    |
-|                                   | issue, this field can be left     |
-|                                   | blank.                            |
+| Confidentiality                   |If the dataset is not anonymized,  |
+|                                   |we may indicate here what          |
+|                                   |Affidavit of Confidentiality must  |
+|                                   |be signed before the data can be   |
+|                                   |accessed. Another option is to     |
+|                                   |include this information in the    |
+|                                   |next element (Access conditions).  |
+|                                   |If there is no confidentiality     |
+|                                   |issue, this field can be left      |
+|                                   |blank.                             |
 |                                   |                                   |
-|                                   | An example of statement could be  |
-|                                   | the following:                    |
+|                                   |An example of statement could be   |
+|                                   |the following:                     |
 |                                   |                                   |
-|                                   | Confidentiality of respondents    |
-|                                   | is guaranteed by Articles N to NN |
-|                                   | of the National Statistics Act of |
-|                                   | [date].                           |
+|                                   |*Confidentiality of respondents    |
+|                                   |is guaranteed by Articles N to NN  |
+|                                   |of the National Statistics Act of  |
+|                                   |[date].*                           |
 |                                   |                                   |
-|                                   | Before being granted access to    |
-|                                   | the dataset, all users have to    |
-|                                   | formally agree:                   |
+|                                   |*Before being granted access to    |
+|                                   |the dataset, all users have to     |
+|                                   |formally agree:*                   |
 |                                   |                                   |
-|                                   | 1. To make no copies of any       |
+|                                   |1.  *To make no copies of any      |
 |                                   |    files or portions of files to  |
 |                                   |    which s/he is granted access   |
 |                                   |    except those authorized by the |
-|                                   |    data depositor.                |
+|                                   |    data depositor.*               |
 |                                   |                                   |
-|                                   | 2. Not to use any technique in    |
+|                                   |2.  *Not to use any technique in   |
 |                                   |    an attempt to learn the        |
 |                                   |    identity of any person,        |
 |                                   |    establishment, or sampling     |
 |                                   |    unit not identified on public  |
-|                                   |    use data files.                |
+|                                   |    use data files.*               |
 |                                   |                                   |
-|                                   | 3. To hold in strictest           |
+|                                   |3.  *To hold in strictest          |
 |                                   |    confidence the identification  |
 |                                   |    of any establishment or        |
 |                                   |    individual that may be         |
@@ -2175,11 +2175,11 @@ and methods, scope and coverage, etc.)
 |                                   |    her/his analysis will be       |
 |                                   |    immediately brought to the     |
 |                                   |    attention of the data          |
-|                                   |    depositor.                     |
+|                                   |    depositor.*                    |
 |                                   |                                   |
-|                                   | This statement does not replace a |
-|                                   | more comprehensive data agreement |
-|                                   | (see Access condition).           |
+|                                   |*This statement does not replace   |
+|                                   |a more comprehensive data          |
+|                                   |agreement(see Access condition).*  |
 +-----------------------------------+-----------------------------------+
 | Access conditions                 | Each dataset should have an       |
 |                                   | “Access policy” attached to it.   |
