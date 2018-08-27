@@ -3418,8 +3418,8 @@ produce one report with the study metadata, and one with the files and
 variables metadata), or change the content options (e.g., not including
 a frequency table for all variables).
 
-Producing the final output
-==========================
+9. Producing the final output
+=============================
 
 Once you are confident that all necessary checks have been completed,
 you may generate the final output using the CD-ROM Builder module of the
@@ -3469,8 +3469,8 @@ DDI-compliant cataloguing system, such as the one provided by its
 National Data Archive (NADA) application. NADA is an open source
 package, available free of charge at www.surveynetwork.org.
 
-Independent quality review
-==========================
+10. Independent quality review
+==============================
 
 An independent review of the data and metadata is highly recommended
 prior to publishing the final output. The Appendix provides a blank
@@ -3497,6 +3497,11 @@ In order to prepare for the independent quality review, proceed to step
 10 if you will use options three or four. Follow the guidance there, and
 then finalize the archiving before producing the final output. Else,
 send the DDI-XML or the Nesstar file to the reviewer.
+
+.. image:: media/image16.png
+
+
+
 
 |image17|
 
