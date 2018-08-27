@@ -1807,10 +1807,10 @@ and methods, scope and coverage, etc.)
 |                                   |for all data files:*               | 
 |                                   |                                   |
 |                                   |  *10) Export to SPSS in 4 files   |
-|                                   |  (hh - household, hl -            |
-|                                   |  household members, wm -          |
-|                                   |  women, ch - children under       |
-|                                   |  5)*                              |
+|                                   | (hh - household, hl -             |
+|                                   | household members, wm -           |
+|                                   | women, ch - children under        |
+|                                   | 5)*                               |
 |                                   |                                   |
 |                                   |  *11) Recoding of variables needed|
 |                                   |  for analysis*                    |
