@@ -2395,33 +2395,32 @@ and methods, scope and coverage, etc.)
 |                                   |  *URI: www.cso.org/databank*      |
 +-----------------------------------+-----------------------------------+
 
-Good practices for completing the File Description
----------------------------------------------------
+5.3. Good practices for completing the File Description
+-------------------------------------------------------
 
 The File Description is the DDI section that aims to provide a detailed
 description of each data file. The IHSN has selected six of the
 available DDI elements.
 
 +-----------------------------------+-----------------------------------+
-| Contents                          | A data filename usually provides  |
-|                                   | little information on its         |
-|                                   | content. Provide here a           |
-|                                   | description of this content. This |
-|                                   | description should clearly        |
-|                                   | distinguish collected variables   |
-|                                   | and derived variables. It is also |
-|                                   | useful to indicate the            |
-|                                   | availability in the data file of  |
-|                                   | some particular variables such as |
-|                                   | the weighting coefficients. If    |
-|                                   | the file contains derived         |
-|                                   | variables, it is good practice to |
-|                                   | refer to the computer program     |
-|                                   | that generated it.                |
+| Contents                          |A data filename usually provides   |
+|                                   |little information on its          |
+|                                   |content. Provide here a            |
+|                                   |description of this content. This  |
+|                                   |description should clearly         |
+|                                   |distinguish collected variables    |
+|                                   |and derived variables. It is also  |
+|                                   |useful to indicate the             |
+|                                   |availability in the data file of   |
+|                                   |some particular variables such as  |
+|                                   |the weighting coefficients. If     |
+|                                   |the file contains derived          |
+|                                   |variables, it is good practice to  |
+|                                   |refer to the computer program      |
+|                                   |that generated it.                 |
 |                                   |                                   |
-|                                   | Examples:                         |
-|                                   |                                   |
-|                                   | -  The file contains data         |
+|                                   |Examples:                          |
+|                                   |  - *The file contains data        |
 |                                   |    related to section 3A of the   |
 |                                   |    household survey questionnaire |
 |                                   |    (Education of household        |
@@ -2429,9 +2428,9 @@ available DDI elements.
 |                                   |    It also contains the weighting |
 |                                   |    coefficient, and various       |
 |                                   |    recoded variables on levels of |
-|                                   |    education.                     |
+|                                   |    education.*                    |
 |                                   |                                   |
-|                                   | -  The file contains derived      |
+|                                   |  - *The file contains derived     |
 |                                   |    data on household consumption, |
 |                                   |    annualized and aggregated by   |
 |                                   |    category of products and       |
@@ -2443,7 +2442,7 @@ available DDI elements.
 |                                   |    generated using a Stata        |
 |                                   |    program named                  |
 |                                   |    “cons_aggregate.do” available  |
-|                                   |    in the external resources.     |
+|                                   |    in the external resources.*    |
 +-----------------------------------+-----------------------------------+
 | Producer                          | Put the name of the agency that   |
 |                                   | produced the data file. Most data |
@@ -2509,7 +2508,7 @@ available DDI elements.
 |                                   | most cases be left empty.         |
 +-----------------------------------+-----------------------------------+
 
-Good practices for completing the Variables Description
+5.3. Good practices for completing the Variables Description
 --------------------------------------------------------
 
 The Variable Description is the section of the DDI document that
