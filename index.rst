@@ -1806,7 +1806,8 @@ and methods, scope and coverage, etc.)
 |                                   |the following steps are completed  |
 |                                   |for all data files:*               | 
 |                                   |                                   |
-|                                   |  *10) Export to SPSS in 4 files   |
+|                                   |  *10) Export to SPSS in 4 files*  |
+|                                   |                                   |
 |                                   | (hh - household, hl -             |
 |                                   | household members, wm -           |
 |                                   | women, ch - children under        |
