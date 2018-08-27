@@ -2903,66 +2903,67 @@ provides detailed information on each variable.
 |                                   |  6 months, newly wedded couples   |
 |                                   |  etc.*                            |
 +-----------------------------------+-----------------------------------+
-| Pre-question text                 | The *pre-question texts* are the  |
-|                                   | instructions provided to the      |
-| Literal question                  | interviewers and printed in the   |
-|                                   | questionnaire before the literal  |
-| Post-question text                | question. This does not apply to  |
-|                                   | all variables. Do not confuse     |
-|                                   | this with instructions provided   |
-|                                   | in the interviewer’s manual. With |
-|                                   | this and the next two fields, one |
-|                                   | should be able to understand how  |
-|                                   | the question was asked during the |
-|                                   | interview. See example below.     |
+| Pre-question text                 |The *pre-question texts* are the   |
+|                                   |instructions provided to the       |
+| Literal question                  |interviewers and **printed in the  |
+|                                   |questionnaire before the literal   |
+| Post-question text                |question**. This does not apply to |
+|                                   |all variables. Do not confuse      |
+|                                   |this with instructions provided    |
+|                                   |in the interviewer’s manual. With  |
+|                                   |this and the next two fields, one  |
+|                                   |should be able to understand how   |
+|                                   |the question was asked during the  |
+|                                   |interview. See example below.      |
 |                                   |                                   |
-|                                   | The *literal question* is the     |
-|                                   | full text of the questionnaire as |
-|                                   | the enumerator is expected to ask |
-|                                   | it when conducting the interview. |
-|                                   | This does not apply to all        |
-|                                   | variables (it does not apply to   |
-|                                   | derived variables).               |
+|                                   |The *literal question* is the      |
+|                                   |full text of the questionnaire as  |
+|                                   |the enumerator is expected to ask  |
+|                                   |it when conducting the interview.  |
+|                                   |This does not apply to all         |
+|                                   |variables (it does not apply to    |
+|                                   |derived variables).                |
 |                                   |                                   |
-|                                   | The *post-question texts* are     |
-|                                   | instructions provided to the      |
-|                                   | interviewers, printed in the      |
-|                                   | questionnaire after the literal   |
-|                                   | question. Post-question can be    |
-|                                   | used to enter information on      |
-|                                   | skips provided in the             |
-|                                   | questionnaire. This does not      |
-|                                   | apply to all variables. Do not    |
-|                                   | confuse this with instructions    |
-|                                   | provided in the interviewer’s     |
-|                                   | manual. With this and the next    |
-|                                   | two fields, one should be able to |
-|                                   | understand how the question was   |
-|                                   | asked during the interview. See   |
-|                                   | example above.                    |
+|                                   |The *post-question texts* are      |
+|                                   |instructions provided to the       |
+|                                   |interviewers, **printed in the     |
+|                                   |questionnaire after the literal    |
+|                                   |question**. Post-question can be   |
+|                                   |used to enter information on       |
+|                                   |skips provided in the              |
+|                                   |questionnaire. This does not       |
+|                                   |apply to all variables. Do not     |
+|                                   |confuse this with instructions     |
+|                                   |provided in the interviewer’s      |
+|                                   |manual. With this and the next     |
+|                                   |two fields, one should be able to  |
+|                                   |understand how the question was    |
+|                                   |asked during the interview. See    |
+|                                   |example above.                     |
 |                                   |                                   |
-|                                   | Example: In the example below     |
-|                                   | (extracted from a UNICEF-MICS     |
-|                                   | standard questionnaire), we find  |
-|                                   | a pre-question, a literal         |
-|                                   | question and a post-question.     |
+|                                   |Example:                           |
+|                                   |  In the example below             |
+|                                   |  (extracted from a UNICEF-MICS    |
+|                                   |  standard questionnaire), we find |
+|                                   |  a pre-question, a literal        |
+|                                   |  question and a post-question.    |
 |                                   |                                   |
-|                                   | |image16|                         |
+|                                   |.. image:: media/image15.png       |
 |                                   |                                   |
-|                                   | -  Pre-question: Check age. If    |
-|                                   |    child is 3 years old or more,  |
-|                                   |    ask:                           |
+|                                   |-  Pre-question: *Check age. If    |
+|                                   |   child is 3 years old or more,   |
+|                                   |   ask:*                           |
 |                                   |                                   |
-|                                   | -  Literal question: Does (name)  |
-|                                   |    attend any organized learning  |
-|                                   |    or early childhood education   |
-|                                   |    programme, such as private or  |
-|                                   |    government facility, including |
-|                                   |    kindergarten or community      |
-|                                   |    child care?                    |
+|                                   |-  Literal question: *Does (name)  |
+|                                   |   attend any organized learning   |
+|                                   |   or early childhood education    |
+|                                   |   programme, such as private or   |
+|                                   |   government facility, including  |
+|                                   |   kindergarten or community       |
+|                                   |   child care?*                    |
 |                                   |                                   |
-|                                   | -  Post-question: If answer is 2  |
-|                                   |    or 9 > Goto next module        |
+|                                   |-  Post-question: *If answer is 2  |
+|                                   |   or 9 > Goto next module*        |
 +-----------------------------------+-----------------------------------+
 | Interviewer Instruction           | Copy/paste the instructions       |
 |                                   | provided to the interviewers in   |
