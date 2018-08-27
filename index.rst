@@ -2333,70 +2333,66 @@ and methods, scope and coverage, etc.)
 |                                   |  the National Data Archive.       |
 |                                   |  www.nda_popstan.org"*            |
 +-----------------------------------+-----------------------------------+
-| **Disclaimer and Copyright**      |                                   |
+| **Disclaimer and Copyright**                                          |
 +-----------------------------------+-----------------------------------+
-| Disclaimer                        | A disclaimer limits the liability |
-|                                   | that the Statistics Office has    |
-|                                   | regarding the use of the data. A  |
-|                                   | standard legal statement should   |
-|                                   | be used for all datasets from a   |
-|                                   | same agency. The IHSN recommends  |
-|                                   | the following formulation:        |
+| Disclaimer                        |A disclaimer limits the liability  |
+|                                   |that the Statistics Office has     |
+|                                   |regarding the use of the data. A   |
+|                                   |standard legal statement should    |
+|                                   |be used for all datasets from a    |
+|                                   |same agency. The IHSN recommends   |
+|                                   |the following formulation:         |
 |                                   |                                   |
-|                                   | The user of the data              |
-|                                   | acknowledges that the original    |
-|                                   | collector of the data, the        |
-|                                   | authorized distributor of the     |
-|                                   | data, and the relevant funding    |
-|                                   | agency bear no responsibility for |
-|                                   | use of the data or for            |
-|                                   | interpretations or inferences     |
-|                                   | based upon such uses.             |
+|                                   |*The user of the data              |
+|                                   |acknowledges that the original     |
+|                                   |collector of the data, the         |
+|                                   |authorized distributor of the      |
+|                                   |data, and the relevant funding     |
+|                                   |agency bear no responsibility for  |
+|                                   |use of the data or for             |
+|                                   |interpretations or inferences      |
+|                                   |based upon such uses.*             |
 +-----------------------------------+-----------------------------------+
-| Copyright                         | Include here a copyright          |
-|                                   | statement on the dataset, such    |
-|                                   | as:                               |
+| Copyright                         |Include here a copyright           |
+|                                   |statement on the dataset, such     |
+|                                   |as:                                |
 |                                   |                                   |
-|                                   | c 2007, Popstan Central           |
-|                                   | Statistics Agency                 |
+|                                   |*© 2007, Popstan Central           |
+|                                   |Statistics Agency*                 |
 +-----------------------------------+-----------------------------------+
-
+| **Contacts**                                                          |
 +-----------------------------------+-----------------------------------+
-| **Contacts**                      |                                   |
-+===================================+===================================+
-| Contact persons                   | Users of the data may need        |
-|                                   | further clarification and         |
-|                                   | information. This section may     |
-|                                   | include the                       |
-|                                   | name-affiliation-email-URI of one |
-|                                   | or multiple contact persons.      |
-|                                   | Avoid putting the name of         |
-|                                   | individuals. The information      |
-|                                   | provided here should be valid for |
-|                                   | the long term. It is therefore    |
-|                                   | preferable to identify contact    |
-|                                   | persons by a title. The same      |
-|                                   | applies for the email field.      |
-|                                   | Ideally, a “generic” email        |
-|                                   | address should be provided. It is |
-|                                   | easy to configure a mail server   |
-|                                   | in such a way that all messages   |
-|                                   | sent to the generic email address |
-|                                   | would be automatically forwarded  |
-|                                   | to some staff members.            |
+| Contact persons                   |Users of the data may need         |
+|                                   |further clarification and          |
+|                                   |information. This section may      |
+|                                   |include the                        |
+|                                   |name-affiliation-email-URI of one  |
+|                                   |or multiple contact persons.       |
+|                                   |Avoid putting the name of          |
+|                                   |individuals. The information       |
+|                                   |provided here should be valid for  |
+|                                   |the long term. It is therefore     |
+|                                   |preferable to identify contact     |
+|                                   |persons by a title. The same       |
+|                                   |applies for the email field.       |
+|                                   |Ideally, a “generic” email         |
+|                                   |address should be provided. It is  |
+|                                   |easy to configure a mail server    |
+|                                   |in such a way that all messages    |
+|                                   |sent to the generic email address  |
+|                                   |would be automatically forwarded   |
+|                                   |to some staff members.             |
 |                                   |                                   |
-|                                   | Example:                          |
+|                                   |Example:                           |
+|                                   |  *Name: Head, Data Processing     |
+|                                   |  Division*                        |
 |                                   |                                   |
-|                                   |    Name: Head, Data Processing    |
-|                                   |    Division                       |
+|                                   |  *Affiliation: National           |
+|                                   |  Statistics Office*               |
 |                                   |                                   |
-|                                   |    Affiliation: National          |
-|                                   |    Statistics Office              |
+|                                   |  *Email: dataproc@cso.org*        |
 |                                   |                                   |
-|                                   |    *Email: dataproc@cso.org*      |
-|                                   |                                   |
-|                                   | URI:\ `www.cso.org/databank       |
-|                                   | <http://www.cso.org/databank>`__  |
+|                                   |  *URI: www.cso.org/databank*      |
 +-----------------------------------+-----------------------------------+
 
 Good practices for completing the File Description
