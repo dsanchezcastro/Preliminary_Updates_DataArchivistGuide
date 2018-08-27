@@ -2601,45 +2601,45 @@ provides detailed information on each variable.
 |                                   |                                   |
 |                                   |.. image:: media/image13.png       |
 +-----------------------------------+-----------------------------------+
-| Data type                         | Four types of variables are       |
-|                                   | recognized by the Toolkit:        |
+| Data type                         |Four types of variables are        |
+|                                   |recognized by the Toolkit:         |
 |                                   |                                   |
-|                                   | -  Numeric: Numeric variables     |
-|                                   |    are used to store any number,  |
-|                                   |    integer or floating point      |
-|                                   |    (decimals).                    |
+|                                   |-  *Numeric: Numeric variables     |
+|                                   |   are used to store any number,   |
+|                                   |   integer or floating point       |
+|                                   |   (decimals).*                    |
 |                                   |                                   |
-|                                   | -  Fixed string: A fixed string   |
-|                                   |    variable has a predefined      |
-|                                   |    length (default length is 8    |
-|                                   |    but it can range from 1 to 255 |
-|                                   |    characters in length) which    |
-|                                   |    enables the publisher to       |
-|                                   |    handle this data type more     |
-|                                   |    efficiently.                   |
+|                                   |-  *Fixed string: A fixed string   |
+|                                   |   variable has a predefined       |
+|                                   |   length (default length is 8     |
+|                                   |   but it can range from 1 to 255  |
+|                                   |   characters in length) which     |
+|                                   |   enables the publisher to        |
+|                                   |   handle this data type more      |
+|                                   |   efficiently.*                   |
 |                                   |                                   |
-|                                   | -  Dynamic string: Dynamic        |
-|                                   |    string variables can be used   |
-|                                   |    to store open-ended            |
-|                                   |    questions.                     |
+|                                   |-  *Dynamic string: Dynamic        |
+|                                   |   string variables can be used    |
+|                                   |   to store open-ended             |
+|                                   |   questions.*                     |
 |                                   |                                   |
-|                                   | -  Date: date variables stored    |
-|                                   |    in ISO format                  |
-|                                   |    (YYYY-MM-DD?—should specify)   |
+|                                   |-  *Date: date variables stored    |
+|                                   |   in ISO format                   |
+|                                   |   (YYYY-MM-DD?—should specify)*   |
 |                                   |                                   |
-|                                   | The data type is usually properly |
-|                                   | identified when the data is       |
-|                                   | imported. It is important to      |
-|                                   | avoid the use of string variables |
-|                                   | when this is not absolutely       |
-|                                   | needed. Such issues must be taken |
-|                                   | care of before the data is        |
-|                                   | imported in the Toolkit. See the  |
-|                                   | section on “\ `Gathering and      |
-|                                   | preparing the                     |
-|                                   | dataset <#gathering-and-preparing |
-|                                   | -the-data-set>`__\ ”              |
-|                                   | above.                            |
+|                                   |The data type is usually properly  |
+|                                   |identified when the data is        |
+|                                   |imported. It is important to       |
+|                                   |avoid the use of string variables  |
+|                                   |when this is not absolutely        |
+|                                   |needed. Such issues must be taken  |
+|                                   |care of before the data is         |
+|                                   |imported in the Toolkit. See the   |
+|                                   |section on “\ `1. Gathering and    |
+|                                   |preparing the                      |
+|                                   |dataset <#gathering-and-preparing  |
+|                                   |-the-data-set>`__\ ”               |
+|                                   |above.                             |
 +-----------------------------------+-----------------------------------+
 | Measure                           | The Microdata Management Toolkit  |
 |                                   | will allow you to define the      |
