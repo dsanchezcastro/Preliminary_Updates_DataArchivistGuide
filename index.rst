@@ -1737,98 +1737,97 @@ and methods, scope and coverage, etc.)
 |                                   |  document provided as an external |
 |                                   |  resource.*                       |
 +-----------------------------------+-----------------------------------+
-| Other processing                  | Use this field to provide as much |
-|                                   | information as possible on the    |
-|                                   | data entry design. This includes  |
-|                                   | such details as:                  |
+| Other processing                  |Use this field to provide as much  |
+|                                   |information as possible on the     |
+|                                   |data entry design. This includes   |
+|                                   |such details as:                   |
 |                                   |                                   |
-|                                   | -  Mode of data entry (manual or  |
-|                                   |    by scanning, in the field/in   |
-|                                   |    regions/at headquarters)       |
+|                                   |-  Mode of data entry (manual or   |
+|                                   |   by scanning, in the field/in    |
+|                                   |   regions/at headquarters)        |
 |                                   |                                   |
-|                                   | -  Computer architecture (laptop  |
-|                                   |    computers in the field,        |
-|                                   |    desktop computers, scanners,   |
+|                                   |-  Computer architecture (laptop   |
+|                                   |   computers in the field,         |
+|                                   |   desktop computers, scanners,    |
 |                                   |    PDA, other; indicate the       |
 |                                   |    number of computers used)      |
 |                                   |                                   |
-|                                   | -  Software used                  |
+|                                   |-  Software used                   |
 |                                   |                                   |
-|                                   | -  Use (and rate) of double data  |
-|                                   |    entry                          |
+|                                   |-  Use (and rate) of double data   |
+|                                   |   entry                           |
 |                                   |                                   |
-|                                   | -  Average productivity of data   |
-|                                   |    entry operators; number of     |
-|                                   |    data entry operators involved  |
-|                                   |    and their work schedule        |
+|                                   |-  Average productivity of data    |
+|                                   |   entry operators; number of      |
+|                                   |   data entry operators involved   |
+|                                   |   and their work schedule         |
 |                                   |                                   |
-|                                   | Information on tabulation and     |
-|                                   | analysis can also be provided     |
-|                                   | here.                             |
+|                                   |Information on tabulation and      |
+|                                   |analysis can also be provided      |
+|                                   |here.                              |
 |                                   |                                   |
-|                                   | All available materials (data     |
-|                                   | entry/tabulation/analysis         |
-|                                   | programs; reports on data entry)  |
-|                                   | should be listed here and         |
-|                                   | provided as external resources.   |
+|                                   |All available materials (data      |
+|                                   |entry/tabulation/analysis          |
+|                                   |programs; reports on data entry)   |
+|                                   |should be listed here and          |
+|                                   |provided as external resources.    |
 |                                   |                                   |
-|                                   | Example:                          |
+|                                   |Example:                           |
+|                                   |  *Data were processed in clusters,|
+|                                   |  with each cluster being processed|
+|                                   |  as a complete unit through each  |
+|                                   |  stage of data processing. Each   |
+|                                   |  cluster goes through the         |
+|                                   |  following steps:*                |
 |                                   |                                   |
-|                                   | Data were processed in clusters,  |
-|                                   | with each cluster being processed |
-|                                   | as a complete unit through each   |
-|                                   | stage of data processing. Each    |
-|                                   | cluster goes through the          |
-|                                   | following steps:                  |
+|                                   |  *1) Questionnaire reception*     |
 |                                   |                                   |
-|                                   | 1) Questionnaire reception        |
+|                                   |  *2) Office editing and coding*   |
 |                                   |                                   |
-|                                   | 2) Office editing and coding      |
+|                                   |  *3) Data entry*                  |
 |                                   |                                   |
-|                                   | 3) Data entry                     |
+|                                   |  *4) Structure and completeness   |
+|                                   |  checking*                        |
 |                                   |                                   |
-|                                   | 4) Structure and completeness     |
-|                                   |    checking                       |
+|                                   |  *5) Verification entry*          |
 |                                   |                                   |
-|                                   | 5) Verification entry             |
+|                                   |  *6) Comparison of verification   |
+|                                   |  data*                            |
 |                                   |                                   |
-|                                   | 6) Comparison of verification     |
-|                                   |    data                           |
+|                                   |  *7) Back up of raw data*         |
 |                                   |                                   |
-|                                   | 7) Back up of raw data            |
+|                                   |  *8) Secondary editing*           |
 |                                   |                                   |
-|                                   | 8) Secondary editing              |
+|                                   |  *9) Edited data back up*         |
 |                                   |                                   |
-|                                   | 9) Edited data back up            |
+|                                   |After all clusters are             |
+|                                   |processed, all data is             |
+|                                   |concatenated together and then     |
+|                                   |the following steps are completed  |
+|                                   |for all data files:                |
 |                                   |                                   |
-|                                   | After all clusters are            |
-|                                   | processed, all data is            |
-|                                   | concatenated together and then    |
-|                                   | the following steps are completed |
-|                                   | for all data files:               |
+|                                   |  *10) Export to SPSS in 4 files   |
+|                                   |  (hh - household, hl -            |
+|                                   |   household members, wm -         |
+|                                   |   women, ch - children under      |
+|                                   |   5)*                             |
 |                                   |                                   |
-|                                   | 10) Export to SPSS in 4 files     |
-|                                   |     (hh - household, hl -         |
-|                                   |     household members, wm -       |
-|                                   |     women, ch - children under    |
-|                                   |     5)                            |
+|                                   |  *11) Recoding of variables needed|
+|                                   |  for analysis*                    |
 |                                   |                                   |
-|                                   | 11) Recoding of variables needed  |
-|                                   |     for analysis                  |
+|                                   |  *12) Adding of sample weights*   |
 |                                   |                                   |
-|                                   | 12) Adding of sample weights      |
+|                                   |  *13)  Calculation of wealth      |
+|                                   |  quintiles and merging into       |
+|                                   |  data*                            |
 |                                   |                                   |
-|                                   | 13)  Calculation of wealth        |
-|                                   |     quintiles and merging into    |
-|                                   |     data                          |
+|                                   |  *14) Structural checking of SPSS |
+|                                   |  files*                           |
 |                                   |                                   |
-|                                   | 14) Structural checking of SPSS   |
-|                                   |     files                         |
+|                                   |  *15) Data quality tabulations*   |
 |                                   |                                   |
-|                                   | 15) Data quality tabulations      |
-|                                   |                                   |
-|                                   | 16) Production of analysis        |
-|                                   |     tabulations                   |
+|                                   |  *16) Production of analysis      |
+|                                   |  tabulations*                     |
 |                                   |                                   |
 |                                   | Details of each of these steps    |
 |                                   | can be found in the data          |
