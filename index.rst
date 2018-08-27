@@ -1749,8 +1749,8 @@ and methods, scope and coverage, etc.)
 |                                   |-  Computer architecture (laptop   |
 |                                   |   computers in the field,         |
 |                                   |   desktop computers, scanners,    |
-|                                   |    PDA, other; indicate the       |
-|                                   |    number of computers used)      |
+|                                   |   PDA, other; indicate the        |
+|                                   |   number of computers used)       |
 |                                   |                                   |
 |                                   |-  Software used                   |
 |                                   |                                   |
@@ -1808,9 +1808,9 @@ and methods, scope and coverage, etc.)
 |                                   |                                   |
 |                                   |  *10) Export to SPSS in 4 files   |
 |                                   |  (hh - household, hl -            |
-|                                   |   household members, wm -         |
-|                                   |   women, ch - children under      |
-|                                   |   5)*                             |
+|                                   |  household members, wm -          |
+|                                   |  women, ch - children under       |
+|                                   |  5)*                              |
 |                                   |                                   |
 |                                   |  *11) Recoding of variables needed|
 |                                   |  for analysis*                    |
