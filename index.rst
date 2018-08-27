@@ -1800,11 +1800,11 @@ and methods, scope and coverage, etc.)
 |                                   |                                   |
 |                                   |  *9) Edited data back up*         |
 |                                   |                                   |
-|                                   |  *After all clusters are          |
-|                                   |  processed, all data is           |
-|                                   |  concatenated together and then   |
-|                                   |  the following steps are completed|
-|                                   |  for all data files:*             |
+|                                   |*After all clusters are            |
+|                                   |processed, all data is             |
+|                                   |concatenated together and then     |
+|                                   |the following steps are completed  |
+|                                   |for all data files:*               | 
 |                                   |                                   |
 |                                   |  *10) Export to SPSS in 4 files   |
 |                                   |  (hh - household, hl -            |
