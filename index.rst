@@ -2641,55 +2641,53 @@ provides detailed information on each variable.
 |                                   |-the-data-set>`__\ ”               |
 |                                   |above.                             |
 +-----------------------------------+-----------------------------------+
-| Measure                           | The Microdata Management Toolkit  |
-|                                   | will allow you to define the      |
-|                                   | measure of a variable as:         |
+| Measure                           |The Microdata Management Toolkit   |
+|                                   |will allow you to define the       |
+|                                   |measure of a variable as:          |
 |                                   |                                   |
-|                                   | -  *Nominal*: variable with       |
-|                                   |    numeric assignations for       |
-|                                   |    responses; the number assigned |
-|                                   |    to each response does not have |
-|                                   |    a meaning by itself.           |
+|                                   |-  *Nominal*: variable with        |
+|                                   |   numeric assignations for        |
+|                                   |   responses; the number assigned  |
+|                                   |   to each response does not have  |
+|                                   |   a meaning by itself.            |
 |                                   |                                   |
-|                                   | ..                                |
+|                                   |Example:                           |
+|                                   |  Variable *sex*: 1 =              |
+|                                   |  Male, 2 = Female (the number     |
+|                                   |  does not have a meaning by       |
+|                                   |  itself; we could as well have    |
+|                                   |  assigned Male = 2 and Female =   |
+|                                   |  1). When variables are           |
+|                                   |  nominal, we can produce          |
+|                                   |  frequency tables by code, but    |
+|                                   |  calculating mean or standard     |
+|                                   |  deviation of the codes would     |
+|                                   |  not make sense.                  |
 |                                   |                                   |
-|                                   |    *Example*: Variable *sex*: 1 = |
-|                                   |    Male, 2 = Female (the number   |
-|                                   |    does not have a meaning by     |
-|                                   |    itself; we could as well have  |
-|                                   |    assigned Male = 2 and Female = |
-|                                   |    1). When variables are         |
-|                                   |    nominal, we can produce        |
-|                                   |    frequency tables by code, but  |
-|                                   |    calculating mean or standard   |
-|                                   |    deviation of the codes would   |
-|                                   |    not make sense.                |
+|                                   |-  *Ordinal*: variable with        |
+|                                   |   numeric assignations and in a   |
+|                                   |   logical sequence. The absolute  |
+|                                   |   size of the number, or the      |
+|                                   |   difference between two numbers  |
+|                                   |   has no meaning. But the         |
+|                                   |   sequence of the number          |
+|                                   |   matters.                        |
 |                                   |                                   |
-|                                   | -  *Ordinal*: variable with       |
-|                                   |    numeric assignations and in a  |
-|                                   |    logical sequence. The absolute |
-|                                   |    size of the number, or the     |
-|                                   |    difference between two numbers |
-|                                   |    has no meaning. But the        |
-|                                   |    sequence of the number         |
-|                                   |    matters.                       |
+|                                   |Example:                           |
+|                                   |  An example of an                 |
+|                                   |  ordinal variable would be a      |
+|                                   |  variable indicating the level    |
+|                                   |  of satisfaction of the           |
+|                                   |  respondent, for example on a     |
+|                                   |  scale of 1 (very unsatisfied)    |
+|                                   |  to 5 (very satisfied).           |
 |                                   |                                   |
-|                                   | ..                                |
-|                                   |                                   |
-|                                   |    *Example*: An example of an    |
-|                                   |    ordinal variable would be a    |
-|                                   |    variable indicating the level  |
-|                                   |    of satisfaction of the         |
-|                                   |    respondent, for example on a   |
-|                                   |    scale of 1 (very unsatisfied)  |
-|                                   |    to 5 (very satisfied).         |
-|                                   |                                   |
-|                                   | -  *Scale*: continuous variables  |
-|                                   |    that have inherent and not     |
-|                                   |    categorical value. Examples of |
-|                                   |    such variables include the age |
-|                                   |    of the person, the amount of   |
-|                                   |    income or expenditure, etc.    |
+|                                   |-  *Scale*: continuous variables   |
+|                                   |   that have inherent and not      |
+|                                   |   categorical value. Examples of  |
+|                                   |   such variables include the age  |
+|                                   |   of the person, the amount of    |
+|                                   |   income or expenditure, etc.     |
 +-----------------------------------+-----------------------------------+
 | Time variable                     | This is a check-box used to tag   |
 |                                   | and identify variables used to    |
