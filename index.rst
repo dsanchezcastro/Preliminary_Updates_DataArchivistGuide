@@ -1925,7 +1925,7 @@ and methods, scope and coverage, etc.)
 |                                   |  in tabulations.*                 |
 +-----------------------------------+-----------------------------------+
 | **Data Appraisal**                                                    |
-+===================================+===================================+
++-----------------------------------+-----------------------------------+
 | Estimate of sampling error        |For sampling surveys, it is good   |
 |                                   |practice to calculate and publish  |
 |                                   |sampling error. This field is      |
