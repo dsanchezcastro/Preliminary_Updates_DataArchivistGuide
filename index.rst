@@ -2965,100 +2965,100 @@ provides detailed information on each variable.
 |                                   |-  Post-question: *If answer is 2  |
 |                                   |   or 9 > Goto next module*        |
 +-----------------------------------+-----------------------------------+
-| Interviewer Instruction           | Copy/paste the instructions       |
-|                                   | provided to the interviewers in   |
-|                                   | the interviewer’s manual. In      |
-|                                   | cases where some instructions     |
-|                                   | relate to multiple variables,     |
-|                                   | repeat the information in all     |
-|                                   | variables. The Toolkit allows you |
-|                                   | to select multiple variables and  |
-|                                   | enter the information to all      |
-|                                   | these variables at once.          |
+| Interviewer Instruction           |Copy/paste the instructions        |
+|                                   |provided to the interviewers **in  |
+|                                   |the interviewer’s manual**. In     |
+|                                   |cases where some instructions      |
+|                                   |relate to multiple variables,      |
+|                                   |repeat the information in all      |
+|                                   |variables. The Toolkit allows you  |
+|                                   |to select multiple variables and   |
+|                                   |enter the information to all       |
+|                                   |these variables at once.           |
 +-----------------------------------+-----------------------------------+
-| Imputation                        | The field is provided to record   |
-|                                   | any imputation or replacement     |
-|                                   | technique used to correct         |
-|                                   | inconsistent or unreasonable      |
-|                                   | data. It is recommended that this |
-|                                   | field provide a summary of what   |
-|                                   | was done and include a reference  |
-|                                   | to a file in the external         |
-|                                   | resources section.                |
+| Imputation                        |The field is provided to record    |
+|                                   |any imputation or replacement      |
+|                                   |technique used to correct          |
+|                                   |inconsistent or unreasonable       |
+|                                   |data. It is recommended that this  |
+|                                   |field provide a summary of what    |
+|                                   |was done and include a reference   |
+|                                   |to a file in the external          |
+|                                   |resources section.                 |
 +-----------------------------------+-----------------------------------+
-| Recoding and derivation           | This element applies to data that |
-|                                   | were obtained by recoding         |
-|                                   | collected variables, or by        |
-|                                   | calculating new variables that    |
-|                                   | were not directly obtained from   |
-|                                   | data collection. It is very       |
-|                                   | important to properly document    |
-|                                   | such variables. Poorly documented |
-|                                   | variables cannot (or should not)  |
-|                                   | be used by researchers. In cases  |
-|                                   | where the recoding or derivation  |
-|                                   | method was very simple, a full    |
-|                                   | description can be provided here. |
-|                                   | For example, if variable AGE_GRP  |
-|                                   | was obtained by recoding variable |
-|                                   | S1Q3, we could simply mention     |
-|                                   | “Variable obtained by recoding    |
-|                                   | the age in years provided in      |
-|                                   | variable S1Q3 into age groups for |
-|                                   | years 0-4, 5-9, …, 60-64, 65 and  |
-|                                   | over. Code 99 indicates unknown   |
-|                                   | age.”                             |
+| Recoding and derivation           |This element applies to data that  |
+|                                   |were obtained by recoding          |
+|                                   |collected variables, or by         |
+|                                   |calculating new variables that     |
+|                                   |were not directly obtained from    |
+|                                   |data collection. It is very        |
+|                                   |important to properly document     |
+|                                   |such variables. Poorly documented  |
+|                                   |variables cannot (or should not)   |
+|                                   |be used by researchers. In cases   |
+|                                   |where the recoding or derivation   |
+|                                   |method was very simple, a full     |
+|                                   |description can be provided here.  |
+|                                   |For example, if variable AGE_GRP   |
+|                                   |was obtained by recoding variable  |
+|                                   |S1Q3, we could simply mention      |
+|                                   |*“Variable obtained by recoding    |
+|                                   |the age in years provided in       |
+|                                   |variable S1Q3 into age groups for  |
+|                                   |years 0-4, 5-9, …, 60-64, 65 and   |
+|                                   |over. Code 99 indicates unknown    |
+|                                   |age.”*                             |
 |                                   |                                   |
-|                                   | When the derivation method is     |
-|                                   | more complex, provide here a      |
-|                                   | reference to a document (and/or   |
-|                                   | computer program) to be provided  |
-|                                   | as an External Resource. This     |
-|                                   | will be the case for example for  |
-|                                   | a variable “TOT_EXP” containing   |
-|                                   | the household annual total        |
-|                                   | expenditure, obtained from a      |
-|                                   | household budget survey. In such  |
-|                                   | case, the information provided    |
-|                                   | here could be:                    |
+|                                   |When the derivation method is      |
+|                                   |more complex, provide here a       |
+|                                   |reference to a document (and/or    |
+|                                   |computer program) to be provided   |
+|                                   |as an External Resource. This      |
+|                                   |will be the case for example for   |
+|                                   |a variable “TOT_EXP” containing    |
+|                                   |the household annual total         |
+|                                   |expenditure, obtained from a       |
+|                                   |household budget survey. In such   |
+|                                   |case, the information provided     |
+|                                   |here could be:                     |
 |                                   |                                   |
-|                                   | “This variable provides the       |
-|                                   | annual household expenditure. It  |
-|                                   | was obtained by aggregating       |
-|                                   | expenditure data on all goods and |
-|                                   | services, available in sections 4 |
-|                                   | to 6 of the household             |
-|                                   | questionnaire. It contains        |
-|                                   | imputed rental values for         |
-|                                   | owner-occupied dwellings. The     |
-|                                   | values have been deflated by a    |
-|                                   | regional price deflator available |
-|                                   | in variable REG_DEF”. All values  |
-|                                   | are in local currency. Outliers   |
-|                                   | have been fixed. Details on the   |
-|                                   | calculations are available in     |
-|                                   | Appendix 2 of the Report on Data  |
-|                                   | Processing, and in the Stata      |
-|                                   | program “aggregates.do” available |
-|                                   | in external resources.”           |
+|                                   |*“This variable provides the       |
+|                                   |annual household expenditure. It   |
+|                                   |was obtained by aggregating        |
+|                                   |expenditure data on all goods and  |
+|                                   |services, available in sections 4  |
+|                                   |to 6 of the household              |
+|                                   |questionnaire. It contains         |
+|                                   |imputed rental values for          |
+|                                   |owner-occupied dwellings. The      |
+|                                   |values have been deflated by a     |
+|                                   |regional price deflator available  |
+|                                   |in variable REG_DEF”. All values   |
+|                                   |are in local currency. Outliers    |
+|                                   |have been fixed. Details on the    |
+|                                   |calculations are available in      |
+|                                   |Appendix 2 of the Report on Data   |
+|                                   |Processing, and in the Stata       |
+|                                   |program “aggregates.do” available  |
+|                                   |in external resources.”*           |
 +-----------------------------------+-----------------------------------+
-| Security                          | This field will be left empty in  |
-|                                   | most cases. It can be used to     |
-|                                   | identify variables that are       |
-|                                   | direct identifiers of the         |
-|                                   | respondents (or highly            |
-|                                   | identifying indirect              |
-|                                   | identifiers), and that should not |
-|                                   | be released.                      |
+| Security                          |This field will be left empty in   |
+|                                   |most cases. It can be used to      |
+|                                   |identify variables that are        |
+|                                   |direct identifiers of the          |
+|                                   |respondents (or highly             |
+|                                   |identifying indirect               |
+|                                   |identifiers), and that should not  |
+|                                   |be released.                       |
 +-----------------------------------+-----------------------------------+
-| Notes                             | This element is provided in order |
-|                                   | to record any additional or       |
-|                                   | auxiliary information related to  |
-|                                   | the specific variable.            |
+| Notes                             |This element is provided in order  |
+|                                   |to record any additional or        |
+|                                   |auxiliary information related to   |
+|                                   |the specific variable.             |
 +-----------------------------------+-----------------------------------+
 
-Good practices for completing the External Resources description
-----------------------------------------------------------------
+5.5. Good practices for completing the External Resources description
+---------------------------------------------------------------------
 
 The External Resources are all materials related to the study others
 than the data files. They include documents (such as the questionnaires,
@@ -3068,120 +3068,120 @@ external resources, the IHSN Toolkit uses the Dublin Core metadata
 standard (which complements the DDI standard).
 
 +-----------------------------------+-----------------------------------+
-| Label                             | This is the label that will be    |
-|                                   | used to display a hyper link to   |
-|                                   | the attached document. It can be  |
-|                                   | the title, name, or an            |
-|                                   | abbreviated version of the title. |
+| Label                             |This is the label that will be     |
+|                                   |used to display a hyper link to    |
+|                                   |the attached document. It can be   |
+|                                   |the title, name, or an             |
+|                                   |abbreviated version of the title.  |
 +-----------------------------------+-----------------------------------+
-| Resource                          | The resource is used to point to  |
-|                                   | the file that will be attached    |
-|                                   | and distributed. The folder where |
-|                                   | the document is found is a        |
-|                                   | relative path and should be the   |
-|                                   | folder that will be pasted into   |
-|                                   | the document path. Once you       |
-|                                   | have pointed to the specified     |
-|                                   | resource make sure you check file |
-|                                   | access by clicking the folder     |
-|                                   | icon to the right of the entry    |
-|                                   | field.                            |
+| Resource                          |The resource is used to point to   |
+|                                   |the file that will be attached     |
+|                                   |and distributed. The folder where  |
+|                                   |the document is found is a         |
+|                                   |relative path and should be the    |
+|                                   |folder that will be pasted into    |
+|                                   |the document path. Once you        |
+|                                   |have pointed to the specified      |
+|                                   |resource make sure you check file  |
+|                                   |access by clicking the folder      |
+|                                   |icon to the right of the entry     |
+|                                   |field.                             |
 +-----------------------------------+-----------------------------------+
-| Type                              | This is crucial information. A    |
-|                                   | controlled vocabulary is          |
-|                                   | provided. The selection of the    |
-|                                   | type is important as it           |
-|                                   | determines the way it will be     |
-|                                   | presented or displayed to the     |
-|                                   | user in the final output. The     |
-|                                   | following are the choices:        |
+| Type                              |This is crucial information. A     |
+|                                   |controlled vocabulary is           |
+|                                   |provided. The selection of the     |
+|                                   |type is important as it            |
+|                                   |determines the way it will be      |
+|                                   |presented or displayed to the      |
+|                                   |user in the final output. The      |
+|                                   |following are the choices:         |
 |                                   |                                   |
-|                                   | -  Document Administrative: This  |
-|                                   |    includes materials such as the |
-|                                   |    survey budget; grant agreement |
-|                                   |    with sponsors; list of staff   |
-|                                   |    and interviewers, etc.         |
+|                                   |-  Document Administrative: This   |
+|                                   |   includes materials such as the  |
+|                                   |   survey budget; grant agreement  |
+|                                   |   with sponsors; list of staff    |
+|                                   |   and interviewers, etc.          |
 |                                   |                                   |
-|                                   | -  Document Analytical: Documents |
-|                                   |    that present analytical output |
-|                                   |    (academic papers, etc. This    |
-|                                   |    does not include the           |
-|                                   |    descriptive survey report (see |
-|                                   |    below)).                       |
+|                                   |-  Document Analytical: Documents  |
+|                                   |   that present analytical output  |
+|                                   |   (academic papers, etc. This     |
+|                                   |   does not include the            |
+|                                   |   descriptive survey report (see  |
+|                                   |   below).                         |
 |                                   |                                   |
-|                                   | -  Document Questionnaire: the    |
-|                                   |    actual questionnaire(s) used   |
-|                                   |    in the field.                  |
+|                                   |-  Document Questionnaire: the     |
+|                                   |   actual questionnaire(s) used    |
+|                                   |   in the field.                   |
 |                                   |                                   |
-|                                   | -  Document Reference: Any        |
-|                                   |    reference documents that are   |
-|                                   |    not directly related to the    |
-|                                   |    specific dataset, but that     |
-|                                   |    provide background information |
-|                                   |    regarding methodology, etc.    |
-|                                   |    For international standard     |
-|                                   |    surveys, this may for example  |
-|                                   |    include the generic guidelines |
-|                                   |    provided by the survey         |
-|                                   |    sponsor.                       |
+|                                   |-  Document Reference: Any         |
+|                                   |   reference documents that are    |
+|                                   |   not directly related to the     |
+|                                   |   specific dataset, but that      |
+|                                   |   provide background information  |
+|                                   |   regarding methodology, etc.     |
+|                                   |   For international standard      |
+|                                   |   surveys, this may for example   |
+|                                   |   include the generic guidelines  |
+|                                   |   provided by the survey          |
+|                                   |   sponsor.                        |
 |                                   |                                   |
-|                                   | -  Document Report: Survey        |
-|                                   |    reports, studies and other     |
-|                                   |    reports that use the data as   |
-|                                   |    the basis for their findings.  |
+|                                   |-  Document Report: Survey         |
+|                                   |   reports, studies and other      |
+|                                   |   reports that use the data as    |
+|                                   |   the basis for their findings.   |
 |                                   |                                   |
-|                                   | -  Document Technical:            |
-|                                   |    Methodological documents       |
-|                                   |    related to survey design,      |
-|                                   |    interviewer’s and supervisor’s |
-|                                   |    manuals, editing               |
-|                                   |    specifications, data entry     |
-|                                   |    operator’s manual, tabulation  |
-|                                   |    and analysis plan, etc.        |
+|                                   |-  Document Technical:             |
+|                                   |   Methodological documents        |
+|                                   |   related to survey design,       |
+|                                   |   interviewer’s and supervisor’s  |
+|                                   |   manuals, editing                |
+|                                   |   specifications, data entry      |
+|                                   |   operator’s manual, tabulation   |
+|                                   |   and analysis plan, etc.         |
 |                                   |                                   |
-|                                   | -  Document Other: Miscellaneous  |
-|                                   |    items                          |
+|                                   |-  Document Other: Miscellaneous   |
+|                                   |   items                           |
 |                                   |                                   |
-|                                   | -  Audio: audio type files.       |
+|                                   |-  Audio: audio type files.        |
 |                                   |                                   |
-|                                   | -  Map: Any cartographic          |
-|                                   |    information.                   |
+|                                   |-  Map: Any cartographic           |
+|                                   |   information.                    |
 |                                   |                                   |
-|                                   | -  Photo: Photos can provide good |
-|                                   |    documentary evidence of a      |
-|                                   |    survey.                        |
+|                                   |-  Photo: Photos can provide good  |
+|                                   |   documentary evidence of a       |
+|                                   |   survey.                         |
 |                                   |                                   |
-|                                   | -  Program: programs generated    |
-|                                   |    during data entry and analysis |
-|                                   |    (data entry, editing,          |
-|                                   |    tabulation and analysis).      |
-|                                   |    These can be zipped together   |
-|                                   |    (include a brief summary       |
-|                                   |    report to describe the         |
-|                                   |    contents)                      |
+|                                   |-  Program: programs generated     |
+|                                   |   during data entry and analysis  |
+|                                   |   (data entry, editing,           |
+|                                   |   tabulation and analysis).       |
+|                                   |   These can be zipped together    |
+|                                   |   (include a brief summary        |
+|                                   |   report to describe the          |
+|                                   |   contents)                       |
 |                                   |                                   |
-|                                   | -  Table: Tabulations such as     |
-|                                   |    confidence intervals that may  |
-|                                   |    not be included in a general   |
-|                                   |    report.                        |
+|                                   |-  Table: Tabulations such as      |
+|                                   |   confidence intervals that may   |
+|                                   |   not be included in a general    |
+|                                   |   report.                         |
 |                                   |                                   |
-|                                   | -  Video: video type files        |
-|                                   |    provided as additional visual  |
-|                                   |    information                    |
+|                                   |-  Video: video type files         |
+|                                   |   provided as additional visual   |
+|                                   |   information                     |
 |                                   |                                   |
-|                                   | -  Website: Link to related       |
-|                                   |    website(s), such as a link to  |
-|                                   |    a Redatam server, or to the    |
-|                                   |    website of the survey sponsor  |
-|                                   |    in the case of international   |
-|                                   |    survey programs like the DHS,  |
-|                                   |    LSMS, or MICS).                |
+|                                   |-  Website: Link to related        |
+|                                   |   website(s), such as a link to   |
+|                                   |   a Redatam server, or to the     |
+|                                   |   website of the survey sponsor   |
+|                                   |   in the case of international    |
+|                                   |   survey programs like the DHS,   |
+|                                   |   LSMS, or MICS).                 |
 |                                   |                                   |
-|                                   | -  Database: any databases        |
-|                                   |    related to the survey (e.g., a |
-|                                   |    Devinfo database providing the |
-|                                   |    aggregated results of the      |
-|                                   |    survey).                       |
+|                                   |-  Database: any databases         |
+|                                   |   related to the survey (e.g., a  |
+|                                   |   Devinfo database providing the  |
+|                                   |   aggregated results of the       |
+|                                   |   survey).                        |
 +-----------------------------------+-----------------------------------+
 | Title                             | Full title of the document as it  |
 |                                   | is provided on the cover page.    |
