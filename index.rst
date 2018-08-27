@@ -1800,7 +1800,7 @@ and methods, scope and coverage, etc.)
 |                                   |                                   |
 |                                   |  *9) Edited data back up*         |
 |                                   |                                   |
-|                                   |  *After all clusters are          |
+|                                   | *After all clusters are           |
 |                                   | processed, all data is            |
 |                                   | concatenated together and then    |
 |                                   | the following steps are completed |
@@ -1828,12 +1828,12 @@ and methods, scope and coverage, etc.)
 |                                   |  *16) Production of analysis      |
 |                                   |  tabulations*                     |
 |                                   |                                   |
-|                                   | Details of each of these steps    |
-|                                   | can be found in the data          |
-|                                   | processing documentation, data    |
-|                                   | editing guidelines, data          |
-|                                   | processing programs in CSPro and  |
-|                                   | SPSS, and tabulation guidelines.  |
+|                                   |Details of each of these steps     |
+|                                   |can be found in the data           |
+|                                   |processing documentation, data     |
+|                                   |editing guidelines, data           |
+|                                   |processing programs in CSPro and   |
+|                                   |SPSS, and tabulation guidelines.   |
 |                                   |                                   |
 |                                   | Data entry was conducted by 12    |
 |                                   | data entry operators in tow       |
