@@ -3402,9 +3402,8 @@ or the metadata make sure you re-run the PDF generator.
 This report should be generated, saved and attached as an *External
 Resource*.
 
-!
-=
 +--------------------------------------------------------------------+
+| **!**                                                              |
 |  The PDF report will include a list of all external resources      |
 |  related to the study. This list should include this PDF report    |
 |  itself. **Before** you generate it, make sure you create one entry|
